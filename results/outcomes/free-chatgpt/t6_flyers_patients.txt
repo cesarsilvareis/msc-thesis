@@ -1,0 +1,770 @@
+Prompt 1: Explicit Number of Pages
+#### Página 1
+**O que é Endocardite Infecciosa?**
+
+A endocardite infecciosa é uma infeção das válvulas cardíacas ou do revestimento do coração.
+
+\______________________________________________________________\_
+
+#### Página 2
+**Causas e Sintomas**
+
+Bactérias na corrente sanguínea podem causar endocardite. Sintomas incluem febre, fadiga e falta de ar.
+
+\______________________________________________________________\_
+
+#### Página 3
+**Diagnóstico**
+
+Os médicos usam exames de sangue, ecocardiogramas e culturas para diagnosticar a endocardite.
+
+\______________________________________________________________\_
+
+#### Página 4
+**Tratamento**
+
+O tratamento inclui antibióticos e, em alguns casos, cirurgia para reparar ou substituir válvulas cardíacas.
+
+\______________________________________________________________\_
+
+#### Página 5
+**Prevenção**
+
+Manter boa higiene bucal e tratar infeções imediatamente pode ajudar a prevenir a endocardite infecciosa.
+
+\______________________________________________________________\_
+
+#### Página 6
+**Fique Alerta!**
+
+Consulte um médico se tiver sintomas como febre persistente ou falta de ar inexplicável.
+
+
+===
+Prompt 2: Page Body Details
+#### Página 1
+
+**\<tit\>** Endocardite Infecciosa **\</tit\>**
+
+**O que é a endocardite infecciosa?**
+
+É uma infeção grave das válvulas cardíacas, causada por bactérias ou fungos.
+
+**\<img\>** Ilustração da Válvula Cardíaca **\</img\>**
+
+**\<note\>** Afeta válvulas do coração, podendo danificá-las permanentemente. **\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 2
+
+**\<tit\>** Sintomas **\</tit\>**
+
+**Quais são os sinais?**
+
+Febre, cansaço, falta de ar, batimento cardíaco irregular e dor nas articulações.
+
+**\<img\>** Pessoas de todas as idades podem ser afetadas **\</img\>**
+
+**\<note\>** Os sintomas podem ser subtis; consulte um médico se suspeitar. **\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 3
+
+**\<tit\>** Diagnóstico **\</tit\>**
+
+**Como é diagnosticada?**
+
+Exames de sangue, ecocardiograma e culturas para identificar a bactéria responsável.
+
+**\<tab\>** Ecocardiograma/sangue **\</tab\>**
+
+**\<note\>** Diagnóstico precoce é crucial para o tratamento eficaz. **\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 4
+
+**\<tit\>** Tratamento **\</tit\>**
+
+**Como é tratada?**
+
+Antibióticos intravenosos por várias semanas; às vezes, cirurgia para reparar válvulas danificadas.
+
+**\<img\>** Tratamento requer cuidados intensivos **\</img\>**
+
+**\<note\>** Seguir rigorosamente o tratamento é essencial para a recuperação. **\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 5
+
+**\<tit\>** Prevenção **\</tit\>**
+
+**Como prevenir?**
+
+Manter boa higiene oral, tratamento precoce de infeções, e antibióticos antes de procedimentos dentários.
+
+**\<tab\>** Higiene oral/antibióticos **\</tab\>**
+
+**\<note\>** Reduza o risco adotando hábitos saudáveis e cuidados preventivos. **\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 6
+
+**\<tit\>** Conclusão **\</tit\>**
+
+**O que mais devo saber?**
+
+Endocardite infecciosa pode ser evitada com atenção aos sinais precoces e cuidados médicos regulares.
+
+**\<img\>** Consulte o seu médico regularmente **\</img\>**
+
+**\<note\>** Educação e vigilância são cruciais para a saúde cardíaca. **\</note\>**
+
+
+
+===
+Prompt 3: Structural Requirements
+#### Página 1
+
+**\<tit\>** Endocardite Infecciosa **\</tit\>**
+
+Bem-vindo ao Folheto sobre Endocardite Infecciosa.
+
+**\<img\>** ilustração/coração **\</img\>**
+
+A endocardite infecciosa é uma infeção grave das válvulas cardíacas.
+
+**\<note\>** Consulte um médico se sentir sintomas. **\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 2
+
+**\<tit\>** Causas e Sintomas **\</tit\>**
+
+**Causas:**
+
+\- Bactérias no sangue.
+
+\- Danos às válvulas cardíacas.
+
+**Sintomas:**
+
+\- Febre persistente.
+
+\- Falta de energia.
+
+**\<img\>** imagem/termómetro **\</img\>**
+
+\______________________________________________________________\_
+
+#### Página 3
+
+**\<tit\>** Diagnóstico e Tratamento **\</tit\>**
+
+**Diagnóstico:**
+
+\- Exames de sangue.
+
+\- Ecocardiograma.
+
+**Tratamento:**
+
+\- Antibióticos por via intravenosa.
+
+\- Possível cirurgia cardíaca.
+
+**\<img\>** ecocardiograma/análise **\</img\>**
+
+\______________________________________________________________\_
+
+#### Página 4
+
+**\<tit\>** Prevenção e Cuidados **\</tit\>**
+
+**Prevenção:**
+
+\- Manter boa higiene oral.
+
+\- Tratar infeções rapidamente.
+
+**Cuidados:**
+
+\- Siga instruções médicas.
+
+\- Exames cardíacos regulares.
+
+**\<img\>** escova_dentes/higiene **\</img\>**
+
+\______________________________________________________________\_
+
+#### Página 5
+
+**\<tit\>** Recursos Adicionais **\</tit\>**
+
+**Associação Cardíaca:**
+
+\- Telefone: 123 456 789.
+
+\- Website: www.associaçãocardíaca.pt.
+
+**Centro de Apoio:**
+
+\- Apoio emocional e informação.
+
+**\<note\>** Não hesite em procurar ajuda. **\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 6
+
+**\<tit\>** Conclusão **\</tit\>**
+
+**O que mais devo saber?**
+
+Endocardite infecciosa pode ser evitada com atenção aos sinais precoces e cuidados médicos regulares.
+
+**\<img\>** Consulte o seu médico regularmente **\</img\>**
+
+**\<note\>** Educação e vigilância são cruciais para a saúde cardíaca. **\</note\>**
+
+
+
+===
+Prompt 4: Content Diversity
+#### Página 1
+
+**\<tit\>** Endocardite Infecciosa **\</tit\>**
+
+**\<img\>** Ilustração do Coração **\</img\>**
+
+Bem-vindo ao folheto sobre Endocardite Infecciosa. Saiba mais sobre esta condição cardíaca séria.
+
+\______________________________________________________________\_
+
+#### Página 2
+
+**\<tit\>** O que é? **\</tit\>**
+
+A Endocardite Infecciosa é uma infeção do revestimento interno do coração (endocárdio).
+
+**\<note\>** Fatores de risco incluem problemas cardíacos prévios e uso de cateteres. **\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 3
+
+**\<tit\>** Sintomas **\</tit\>**
+
+**\<tab\>** Febre/Fadiga **\</tab\>**
+
+Os sintomas incluem febre persistente e fadiga inexplicável.
+
+**\<img\>** Pessoas Conversando com Médico **\</img\>**
+
+\______________________________________________________________\_
+
+#### Página 4
+
+**\<tit\>** Diagnóstico **\</tit\>**
+
+**\<tab\>** Exames de Sangue/Ecocardiograma **\</tab\>**
+
+Os médicos usam exames de sangue e ecocardiogramas para diagnosticar.
+
+**\<note\>** Procurar tratamento imediato é crucial para prevenir complicações. **\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 5
+
+**\<tit\>** Tratamento **\</tit\>**
+
+**\<img\>** Medicação e Monitoramento **\</img\>**
+
+Tratamento geralmente requer antibióticos e, às vezes, cirurgia cardíaca.
+
+**\<note\>** Sigas as instruções médicas e mantenha o acompanhamento regular. **\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 6
+
+**\<tit\>** Recursos Adicionais **\</tit\>**
+
+**\<tab\>** Associações Locais/Linhas de Apoio **\</tab\>**
+
+Encontre apoio e informação adicional através de associações e linhas de apoio.
+
+**\<note\>** Educação e prevenção são essenciais para a saúde do coração. **\</note\>**
+
+
+===
+Prompt 5: Formal Topic Exclusion
+#### Página 1
+
+**\<tit\>**O que é a Endocardite Infecciosa?**\</tit\>**
+
+**\<img\>**Ilustração de um coração saudável e um coração afetado**\</img\>**
+
+A endocardite infeciosa é uma infeção das válvulas cardíacas ou da parede do coração.
+
+\______________________________________________________________\_
+
+#### Página 2
+
+**\<tit\>**Como ocorre?**\</tit\>**
+
+**\<img\>**Representação de bactérias no sangue**\</img\>**
+
+Bactérias entram na corrente sanguínea e atingem o coração, causando inflamação e danos.
+
+\______________________________________________________________\_
+
+#### Página 3
+
+**\<tit\>**Quais são os Sintomas?**\</tit\>**
+
+**\<img\>**Ilustração de sintomas comuns: febre, fadiga, dor nas articulações**\</img\>**
+
+Febre, fadiga, dor nas articulações e suores noturnos são sintomas comuns. Procure ajuda médica se suspeitar.
+
+\______________________________________________________________\_
+
+#### Página 4
+
+**\<tit\>**Grupos de Risco**\</tit\>**
+
+**\<img\>**Imagem representando pessoas com maior risco: válvulas cardíacas artificiais, usuários de drogas injetáveis, etc.**\</img\>**
+
+Pessoas com válvulas cardíacas artificiais, usuários de drogas injetáveis e com histórico de endocardite estão em maior risco.
+
+\______________________________________________________________\_
+
+#### Página 5
+
+**\<tit\>**Prevenção**\</tit\>**
+
+**\<img\>**Ilustração de medidas preventivas: higiene, acompanhamento médico regular**\</img\>**
+
+Manter boa higiene oral, fazer acompanhamento médico regular e evitar injeções desnecessárias pode ajudar a prevenir.
+
+\______________________________________________________________\_
+
+#### Página 6
+
+**\<tit\>**Você não está Sozinho!**\</tit\>**
+
+**\<note\>**Procure ajuda médica se suspeitar de endocardite. O tratamento precoce pode salvar vidas!**\</note\>**
+
+**\<note\>**Compartilhe suas preocupações com familiares e amigos. Apoio emocional é importante durante o tratamento.**\</note\>**
+
+**\<note\>**O seu médico está aqui para ajudar. Não hesite em fazer perguntas ou expressar suas preocupações.**\</note\>**
+
+
+===
+Prompt 6: Patient Profile
+#### Página 1
+
+**\<tit\>**Entendendo a Endocardite Infecciosa**\</tit\>**
+
+**\<note\>**Informações importantes sobre sua saúde cardíaca.**\</note\>**
+
+A Endocardite Infecciosa é uma condição séria que afeta o coração. Saiba como proteger-se.
+
+**\<note\>**Descubra como a Endocardite Infecciosa pode afetar você.**\</note\>**
+
+**O que é a Endocardite Infecciosa?**
+
+É uma infecção das válvulas cardíacas, causada por bactérias presentes no sangue.
+
+**\<note\>**Entenda como isso pode impactar sua saúde.**\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 2
+
+**\<img\>**Ilustração mostrando como as bactérias podem danificar as válvulas do coração.**\</img\>**
+
+**\<tit\>**Como Posso me Proteger?**\</tit\>**
+
+**\<note\>**Medidas preventivas para manter seu coração saudável.**\</note\>**
+
+Cuidados com a higiene bucal e tratamento imediato de infecções podem reduzir o risco.
+
+**\<note\>**Pequenas ações que fazem grande diferença.**\</note\>**
+
+**Estilo de Vida Saudável**
+
+Uma dieta equilibrada e a prática regular de exercícios fortalecem seu sistema imunológico.
+
+**\<note\>**Descubra hábitos saudáveis para proteger seu coração**.\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 3
+
+**\<tit\>**O que Devo Saber?**\</tit\>**
+
+**\<note\>**Informações importantes sobre a Endocardite Infecciosa.**\</note\>**
+
+Conheça os sintomas e saiba quando procurar ajuda médica.
+
+**\<note\>**Identifique sinais de alerta para proteger sua saúde.**\</note\>**
+
+**Encontrando Apoio**
+
+Grupos de apoio podem oferecer suporte emocional durante o tratamento da Endocardite Infecciosa.
+
+**\<note\>**Você não está sozinho nessa jornada.**\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 4
+
+**\<tit\>**Recursos e Suporte**\</tit\>**
+
+**\<note\>**Encontre informações adicionais para ajudá-lo.**\</note\>**
+
+Procure organizações de saúde cardíaca e grupos de apoio locais para orientações e suporte.
+
+**\<note\>**Estamos aqui para ajudar você.**\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 5
+
+**\<tit\>** Procurando Mais Informações? **\</tit\>**
+
+**\<note\>**Fale com seu médico para obter mais orientações.**\</note\>**
+
+Visite os seguintes recursos para aprender mais sobre a Endocardite Infecciosa:
+
+\- [Inserir informações de contato do hospital ou clínica]
+
+\- [Inserir sites de organizações de saúde cardíaca]
+
+\- [Inserir números de telefone de linhas de apoio]
+
+**\<note\>**Estamos comprometidos em cuidar da sua saúde**.\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 6
+
+**\<tit\>**Aviso Importante**\</tit\>**
+
+**\<note\>**Se suspeitar de sintomas de Endocardite Infecciosa, consulte seu médico imediatamente.**\</note\>**
+
+Lembre-se de que a prevenção é a melhor forma de proteger seu coração. Mantenha hábitos saudáveis e siga as orientações médicas.
+
+**\<note\>**Cuide do seu coração, cuide de você.**\</note\>**
+
+
+===
+Prompt 7: Succinctness Signal
+#### Página 1 (Capa)
+
+**\<tit\>**Endocardite Infecciosa:**\</tit\>**
+
+**\<tit\>**Guia Informativo para Pacientes**\</tit\>**
+
+**\<img\>**Ilustração de uma válvula cardíaca saudável**\</img\>**
+
+\______________________________________________________________\_
+
+#### Página 2
+
+**\<tit\>**Descubra mais sobre a Endocardite Infecciosa**\</tit\>**
+
+**\<img\>**Ilustração de bactérias atacando uma válvula cardíaca**\</img\>**
+
+**O que é Endocardite Infecciosa?**
+
+Endocardite Infecciosa é uma infeção rara, mas séria, nas válvulas cardíacas ou no revestimento do coração.
+
+**Como acontece?**
+
+Bactérias entram na corrente sanguínea e se alojam no coração, causando infecção.
+
+\______________________________________________________________\_
+
+#### Página 3
+
+**\<tit\>**Sintomas e Complicações**\</tit\>**
+
+**\<img\>**Ilustração de uma pessoa com sintomas de Endocardite Infecciosa**\</img\>**
+
+**Sintomas:**
+
+Febre, fadiga, dor no peito, falta de ar, e batimentos cardíacos irregulares.
+
+**Complicações:**
+
+Danos às válvulas cardíacas, acidentes vasculares cerebrais e insuficiência cardíaca.
+
+\______________________________________________________________\_
+
+#### Página 4
+
+**\<tit\>**Fatores de Risco**\</tit\>**
+
+**\<img\>**Ilustração de fatores de risco para doenças cardíacas**\</img\>**
+
+Os fatores que aumentam o risco de Endocardite Infecciosa incluem:
+
+\- Doença cardíaca pré-existente
+
+\- Cirurgias cardíacas
+
+\- Uso de drogas intravenosas
+
+\______________________________________________________________\_
+
+#### Página 5
+
+**\<tit\>**Prevenção e Estilo de Vida Saudável**\</tit\>**
+
+**\<img\>**Ilustração de uma pessoa praticando hábitos saudáveis de vida**\</img\>**
+
+**Prevenção:**
+
+\- Mantenha a higiene oral e faça exames dentários regulares
+
+\- Siga as recomendações médicas após cirurgias
+
+\- Adote um estilo de vida saudável, incluindo:
+
+\- Prática regular de exercícios físicos
+
+\- Alimentação balanceada, com foco em frutas, vegetais, grãos integrais e proteínas magras
+
+\______________________________________________________________\_
+
+#### Página 6
+
+**\<tit\>**Recursos e Apoio**\</tit\>**
+
+**\<note\>**Para mais informações e suporte, consulte o seu médico ou os seguintes recursos:**\</note\>**
+
+\- Associação Portuguesa de Cardiologia
+
+\- Linha de apoio a doentes cardíacos: 800 xxx xxx
+
+\- Website da Direção-Geral da Saúde: [www.dgs.pt](http://www.dgs.pt)
+
+**A sua saúde cardíaca é importante. Tome medidas hoje!**
+
+
+===
+Prompt 8: Clinical Persona
+#### Página 1
+
+**\<tit\>**Infective Endocarditis: Proteja o Seu Coração**\</tit\>**
+
+**\<img\>**Ilustração de um coração saudável e um coração infectado**\</img\>**
+
+A Endocardite Infecciosa é uma infeção grave das válvulas cardíacas. Pode ser mortal, mesmo sem sintomas.
+
+\______________________________________________________________\_
+
+#### Página 2
+
+**\<tit\>**O que é a Endocardite Infecciosa?**\</tit\>**
+
+A Endocardite Infecciosa ocorre quando bactérias entram na corrente sanguínea e se alojam nas válvulas cardíacas, causando infeção. Isso pode levar a danos graves no coração e em outros órgãos.
+
+\- Afeta as válvulas cardíacas, levando a danos
+
+\- Pode ser assintomática, mas ainda assim perigosa
+
+\- Tratamento requer antibióticos e, em casos graves, cirurgia
+
+**\<note\>**Consulte um médico regularmente para proteger o seu coração.**\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 3
+
+**\<tit\>**Como se Contrai?**\</tit\>**
+
+**\<img\>**Imagem de bactérias sendo transmitidas pela corrente sanguínea**\</img\>**
+
+\- Bactérias da boca e feridas na pele podem causar infeção
+
+\- Cuidado com tratamentos dentários e feridas
+
+**\<note\>**Mantenha uma boa higiene oral e trate feridas adequadamente para prevenir.**\</note\>**
+
+**\<img\>**Ilustração mostrando uma escovação adequada dos dentes**\</img\>**
+
+\______________________________________________________________\_
+
+#### Página 4
+
+**\<tit\>**Sintomas e Complicações**\</tit\>**
+
+\- Febre, fadiga e suores noturnos são sinais comuns
+
+\- Complicações incluem danos às válvulas cardíacas e abcessos cerebrais
+
+**\<note\>**Procure ajuda médica se suspeitar de Endocardite Infecciosa.**\</note\>**
+
+**\<img\>**Imagem mostrando diferentes sintomas de Endocardite Infecciosa**\</img\>**
+
+\______________________________________________________________\_
+
+#### Página 5
+
+**\<tit\>**Estilo de Vida Saudável**\</tit\>**
+
+\- Alimentação equilibrada com muitas frutas, legumes e fibras
+
+\- Pratique atividade física regularmente para fortalecer o coração
+
+\- Evite tabaco, drogas e consumo excessivo de álcool
+
+**\<note\>**Cuide do seu coração com hábitos saudáveis e evite comportamentos de risco.**\</note\>**
+
+**\<img\>**Ilustração de uma pessoa praticando atividade física e comendo alimentos saudáveis**\</img\>**
+
+\______________________________________________________________\_
+
+#### Página 6
+
+**\<tit\>**Proteja o Seu Coração**\</tit\>**
+
+\- Consulte regularmente o seu médico para exames cardíacos
+
+\- Conheça os sinais de Endocardite Infecciosa e procure ajuda médica se necessário
+
+**\<note\>**A prevenção é essencial para manter seu coração saudável e feliz.**\</note\>**
+
+**\<img\>**Ilustração de um médico e paciente conversando sobre saúde cardíaca**\</img\>**
+
+
+===
+Prompt 9: Visual Prevention
+#### Página 1
+**\<tit\>** Conheça a Endocardite Infecciosa**\</tit\>**
+
+**O que é?**
+
+**\<img\>** Ilustração: Endocardite Infecciosa**\</img\>**
+
+<note> Doença grave do coração. </note>
+
+**Quem está em risco?**
+<tab> Doenças cardíacas prévias/Procedimentos cardíacos </tab>
+
+**\<note\>**Consulte seu médico regularmente.**\</note\>**
+
+\______________________________________________________________\_
+#### Página 2
+**\<tit\>** Como se contrai?**\</tit\>**
+
+**Fontes de Infecção**
+
+\- Bactérias na corrente sanguínea
+
+\- Procedimentos odontológicos
+
+**\<img\>** Bactérias e procedimentos odontológicos**\</img\>**
+
+**Fatores de Risco**
+
+\- Doenças cardíacas prévias
+
+\- Uso de drogas intravenosas
+
+**\<note\>** Conheça os fatores que aumentam o risco.**\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 3
+**\<tit\>** Sintomas e Complicações**\</tit\>**
+
+**Sintomas**
+
+\- Febre persistente
+
+\- Fadiga extrema
+
+**\<img\>** Sintomas: Febre, Fadiga**\</img\>**
+
+**Complicações**
+
+\- Danos às válvulas cardíacas
+
+\- Acidente vascular cerebral (AVC)
+
+**\<note\>** Procure ajuda médica imediatamente.**\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 4
+**\<tit\>** Prevenção é a Chave**\</tit\>**
+
+**Boa Higiene Oral**
+
+\- Escove os dentes após as refeições
+
+\- Consulte um dentista regularmente
+
+**\<img\>** Escova e pasta de dentes**\</img\>**
+
+**Cuidados com Agulhas**
+
+\- Evite o compartilhamento de agulhas
+
+\- Descarte-as adequadamente
+
+**\<note\>** Pequenos gestos, grandes proteções.**\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 5
+**\<tit\>** Estilo de Vida Saudável**\</tit\>**
+
+**Alimentação Equilibrada**
+
+\- Frutas e vegetais diariamente
+
+\- Limitar alimentos ricos em gordura
+
+**\<img\>** Prato saudável**\</img\>**
+
+**Exercício Regular**
+
+\- Caminhadas diárias
+
+\- Pratique atividades que goste
+
+**\<note\>** Um coração saudável é um coração ativo.**\</note\>**
+
+\______________________________________________________________\_
+
+#### Página 6
+**\<tit\>** Mantenha-se Informado**\</tit\>**
+
+**Saiba Mais**
+
+\- Consulte o seu médico regularmente
+
+\- Informe-se sobre vacinação adequada
+
+**\<note\>** Prevenir é sempre melhor do que remediar.**\</note\>**
+
+**Contato**
+
+\- Para mais informações, visite nosso site
+
+\- Entre em contato conosco através do email: [email protected]
+
+**\<note\>** Estamos aqui para ajudar.**\</note\>**
+
+===

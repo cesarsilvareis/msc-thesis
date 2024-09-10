@@ -1,0 +1,154 @@
+Prompt 1: Limited Slide Length
+Elaborate 5 theoretical slides with 25 words at most each, where you show the Infective Endocarditis disease to non-medical students.
+
+===
+Prompt 2: Slide Format
+Elaborate 5 theoretical slides where you show the Infective Endocarditis disease to non-medical students. Your generation should respect the structure as follows (do not enclose in code "```"):
+
+Slide format:"""
+---
+**Slide {slide_number}: {slide_title}**
+{slide_body}
+"""
+
+### Notes ###
+- All slide bodies have at most 25 words.
+- Use bullet-list form as the main textual element type.
+
+===
+Prompt 3: Slide Body Details
+Elaborate 5 theoretical slides where you show the Infective Endocarditis disease to non-medical students. Your generation should respect the structure as follows (do not enclose in code "```"):
+
+Slide format:"""
+---
+**Slide {slide_number}: {slide_title}**
+{slide_body}
+"""
+
+### Body Restrictions ###
+- Every slide_body has at most 25 words in total.
+- Use bullet-list form as the primary textual element type.
+- As pedagogical presentations seek attention and conveyance clarity beyond text, you are free to detail further any slide_body using the given structural elements (not counting to the word limit):
+   - Images: """ **<img>** {image_caption} **</img>** """
+   - Tables: """ **<tab>** {var1}/{var2} **</tab>** """
+
+===
+Prompt 4: Completing Slide on Diversity
+Elaborate 5 theoretical slides where you show the Infective Endocarditis disease to non-medical students. Your generation should respect the established requirements below and the structure as follows (do not enclose in code "```"):
+
+Slide format:"""
+---
+**Slide {slide_number}: {slide_title}**
+{slide_body}
+"""
+
+### Body Restrictions ###
+- Every slide_body has at most 25 words in a slide with at least 7 lines.
+- Use bullet-list form as the primary textual element type.
+- As pedagogical presentations seek attention and conveyance clarity beyond text, you are free to fill lines of any slide_body using the given structural elements (not counting to the word limit):
+   - Images: """ **<img>** {image_caption} **</img>** """
+   - Tables: """ **<tab>** {var1}/{var2} **</tab>** """
+- Make the slides sound complete to the readers with concise information sustained on diverse images or tables.
+
+===
+Prompt 5: Towards Non-Medical Pursuits
+Elaborate 5 theoretical slides where you show the Infective Endocarditis disease to non-medical students. Your generation should respect the established requirements and prescribed considerations below and the structure as follows (do not enclose in code "```"):
+
+Slide format:"""
+---
+**Slide {slide_number}: {slide_title}**
+{slide_body}
+"""
+
+### Body Restrictions ###
+- Every slide_body has at most 25 words in a slide with at least 7 lines.
+- Use bullet-list form as the primary textual element type.
+- As pedagogical presentations seek attention and conveyance clarity beyond text, you are free to fill lines of any slide_body using the given structural elements (not counting to the word limit):
+   - Images: """ **<img>** {image_caption} **</img>** """
+   - Tables: """ **<tab>** {var1}/{var2} **</tab>** """
+- Make the slides sound complete to the readers with concise information sustained on diverse images or tables.
+
+### Considerations ###
+- All information in the generated slides should be clear, nonredundant, and appropriate to a professional and engaging medical presentation.
+- Assume non-medical students could be nurses, microbiologists, or cardio-pneumologists.
+
+===
+Prompt 6: Specific Slide Requirements
+Elaborate 5 theoretical slides where you show the Infective Endocarditis disease to non-medical students. Your generation should respect the established requirements and prescribed considerations below and the structure as follows (do not enclose in code "```"):
+
+Slide format:"""
+---
+**Slide {slide_number}: {slide_title}**
+{slide_body}
+"""
+
+### Body Restrictions ###
+- Every slide_body has at most 25 words in a slide with at least 7 lines.
+- Use bullet-list form as the primary textual element type.
+- As pedagogical presentations seek attention and conveyance clarity beyond text, you are free to fill lines of any slide_body using the given structural elements (not counting to the word limit):
+   - Images: """ **<img>** {image_caption} **</img>** """
+   - Tables: """ **<tab>** {var1}/{var2} **</tab>** """
+- Make the slides sound complete to the readers with concise information sustained on diverse images or tables.
+
+### Considerations & Requirements ###
+- All information in the generated slides should be clear, nonredundant, and appropriate to a professional and engaging medical presentation.
+- Assume non-medical students could be nurses, microbiologists, or cardio-pneumologists.
+- The first slide should have the presentation overview.
+- An analogy is required as the last slide, relating this cardiovascular pathology to the studies of students pursuing cardio-pneumology.
+
+===
+Prompt 7: Non-Medical Style Expectations
+Elaborate 5 theoretical slides where you show the Infective Endocarditis disease to NON-MEDICAL_STUDENTs. Your generation should respect all detailed slide information below, including the structure as follows (do not enclose in code "```"):
+
+Slide format:"""
+---
+**Slide {slide_number}: {slide_title}**
+{slide_body}
+"""
+
+### Body Restrictions ###
+- Every slide_body has at most 25 words in a slide with at least 7 lines.
+- Use bullet-list form as the primary textual element type.
+- As pedagogical presentations seek attention and conveyance clarity beyond text, you are free to fill lines of any slide_body using the given structural elements (not counting to the word limit):
+   - Images: """ **<img>** {image_caption} **</img>** """
+   - Tables: """ **<tab>** {var1}/{var2} **</tab>** """
+- Make the slides sound complete to the readers with concise information sustained on diverse images or tables.
+
+### Considerations & Requirements ###
+- All information in the generated slides should be clear, nonredundant, and appropriate to a professional and engaging medical presentation.
+- Assume non-medical students could be nurses, microbiologists, or cardio-pneumologists.
+- The first slide should have the presentation overview.
+- An analogy is required as the last slide, relating this cardiovascular pathology to the studies of students pursuing microbiology.
+
+### Non-Medical Target Style ###
+Please ensure no overwhelming medical jargon and a simple, engaged tone when creating slides.
+
+===
+Prompt 8: Non-Medical Student Profile
+Elaborate 5 theoretical slides where you show the Infective Endocarditis disease to NON-MEDICAL_STUDENTs. Your generation should respect all detailed slide information below, including the structure as follows (do not enclose in code "```"):
+
+Slide format:"""
+---
+**Slide {slide_number}: {slide_title}**
+{slide_body}
+"""
+
+### Body Restrictions ###
+- Every slide_body has at most 25 words in a slide with at least 7 lines.
+- Use bullet-list form as the primary textual element type.
+- As pedagogical presentations seek attention and conveyance clarity beyond text, you are free to fill lines of any slide_body using the given structural elements (not counting to the word limit):
+   - Images: """ **<img>** {image_caption} **</img>** """
+   - Tables: """ **<tab>** {var1}/{var2} **</tab>** """
+- Make the slides sound complete to the readers with concise information sustained on diverse images or tables.
+
+### Considerations & Requirements ###
+- All information in the generated slides should be clear, nonredundant, and appropriate to a professional and engaging medical presentation.
+- The first slide should have the presentation overview.
+- The last slide includes an analogy, relating this cardiovascular pathology to the studies of the NON-MEDICAL_STUDENTs.
+
+[ NON-MEDICAL_STUDENT ]
+Profile: A nurse, microbiologist, or cardio-pneumologist with descriptive yet simplified medical knowledge. Prevalence of curiosity.
+Topics of interest: risk factors and causes; basic diagnosis; generic complications; and usual treatment protocols.
+Target Style: no overwhelming medical jargon and a simple, engaged tone.
+
+===

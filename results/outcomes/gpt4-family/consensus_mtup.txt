@@ -1,0 +1,66 @@
+T1.2|4
+
+**Target Material:**
+"""
+Infective Endocarditis (IE) is a severe infection of the heart's inner lining or valves, primarily caused by bacteria entering the bloodstream. In Portugal, Staphylococcus aureus and Streptococcus species are common culprits. Diagnosis involves clinical suspicion, blood cultures, echocardiography, and Duke criteria. Treatment typically requires prolonged intravenous antibiotics, tailored based on culture results. Complications include heart failure, embolic events, and valve damage. Prognosis depends on timely diagnosis and appropriate management, with mortality rates varying from 10% to 30%, but they can be higher in cases of complications.
+"""
+
+**Revised Material:**
+"""
+Infective Endocarditis (IE) is a severe infection of the heart's inner lining or valves, primarily caused by bacteria entering the bloodstream. In Portugal, Staphylococcus aureus and Streptococcus species are common culprits. Diagnosis involves clinical suspicion, blood cultures, echocardiography, and modified Duke criteria. Advanced imaging techniques like cardiac MRI and CT are increasingly utilized. Treatment typically requires prolonged intravenous antibiotics, tailored based on culture results, and in some cases, surgical intervention may be necessary. Complications include heart failure, embolic events, and valve damage. Prognosis depends on timely diagnosis and appropriate management, with mortality rates varying from 15% to 30%, but they can be higher in cases of complications.
+"""
+
+**Changes:**
+C1. Updated "Duke criteria" to "modified Duke criteria" and added advanced imaging techniques like cardiac MRI and CT for diagnosis.
+C2. Added the necessity of surgical intervention in some cases to the treatment description.
+C3. Updated the prognosis mortality rates from "10% to 30%" to "15% to 30%."
+
+**References:**
+C1. [(Habib et al., 2015)](https://consensus.app/papers/2015-esc-guidelines-management-infective-endocarditis-task/1289dcf927f0a6b590f9e4789dd3fa75/?utm_source=chatgpt), [(Baddour et al., 2015)](https://consensus.app/papers/infective-endocarditis-diagnosis-antimicrobial-therapy-baddour/cb1b17b72a3cfb576dced06a29cf4b10/?utm_source=chatgpt)
+C2. [(Habib et al., 2015)](https://consensus.app/papers/2015-esc-guidelines-management-infective-endocarditis-task/1289dcf927f0a6b590f9e4789dd3fa75/?utm_source=chatgpt)
+C3. [(Baddour et al., 2015)](https://consensus.app/papers/infective-endocarditis-diagnosis-antimicrobial-therapy-baddour/cb1b17b72a3cfb576dced06a29cf4b10/?utm_source=chatgpt), [(Toyoda et al., 2017)](https://consensus.app/papers/trends-infective-endocarditis-united-states-1999-2013-toyoda/7a70afc644ed29282e66d2d39382e8ea/?utm_source=chatgpt)
+
+
+T2.2|1
+
+**Target Material:**
+```
+**Slide 5: Diagnostic Approach**
+
+- Blood cultures, echocardiography
+
+- Duke criteria for diagnosis
+
+- Imaging to detect complications
+
+- Multidisciplinary team involvement
+
+<Table summarizing Duke criteria for diagnosing infective endocarditis>
+```
+
+**Revised Material:**
+```
+**Slide 5: Diagnostic Approach**
+
+- Blood cultures, echocardiography (including transesophageal echocardiography for higher sensitivity)
+
+- Updated Duke criteria for diagnosis (including modifications for prosthetic valves, cardiac devices, and blood culture-negative endocarditis)
+
+- Advanced imaging techniques (such as PET/CT and cardiac MRI) to detect complications
+
+- Multidisciplinary team involvement (including cardiologists, infectious disease specialists, and surgeons)
+
+<Table summarizing Updated Duke criteria for diagnosing infective endocarditis>
+```
+
+**Changes:**
+C1. Added transesophageal echocardiography for higher sensitivity in blood cultures and echocardiography.
+C2. Updated Duke criteria to include modifications for prosthetic valves, cardiac devices, and blood culture-negative endocarditis.
+C3. Included advanced imaging techniques like PET/CT and cardiac MRI.
+C4. Specified the involvement of cardiologists, infectious disease specialists, and surgeons in the multidisciplinary team.
+
+**References:**
+C1. [(Habib et al., 2015)](https://consensus.app/papers/esc-guidelines-management-infective-endocarditis-the-task/2081198698a715bd72954ab4f0d5c788/?utm_source=chatgpt)
+C2. [(Pizzi et al., 2020)](https://consensus.app/papers/integrating-diagnosis-managing-infective-endocarditis-propensity/05dc2136f563f1cfb0894cdded2ed0be/?utm_source=chatgpt)
+C3. [(Saby et al., 2012)](https://consensus.app/papers/2012-petct-sensitivity-infective-endocarditis-compared-leukocyte/8f4a49bcd674e4ed5aee22d9dc73053c/?utm_source=chatgpt)
+C4. [(Baddour et al., 2015)](https://consensus.app/papers/infective-endocarditis-intracardiac-device-recommendations-writing/36b7b8d51d373e6b4c20aaf30de252f0/?utm_source=chatgpt)

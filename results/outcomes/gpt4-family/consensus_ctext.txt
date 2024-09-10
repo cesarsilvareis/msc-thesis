@@ -1,0 +1,106 @@
+NON_MEDICAL_STUDENTS
+
+**Research:**
+
+Infective Endocarditis (IE) is an infection of the endocardium, typically involving the heart valves. It is caused primarily by bacteria, with Staphylococcus aureus and Streptococcus species being the most common pathogens. Risk factors for IE include pre-existing heart conditions, intravenous drug use, and the presence of prosthetic heart valves. Diagnosis involves blood cultures and echocardiography, while treatment includes prolonged antibiotic therapy and, in some cases, surgery to repair or replace damaged valves. Complications can be severe and include heart failure, stroke, and systemic embolization.
+
+Sources:
+1. American Heart Association. (2023). Infective Endocarditis.
+2. Mayo Clinic. (2023). Endocarditis.
+
+---
+**Explanation:**
+
+Hello everyone,
+
+Today, we will discuss Infective Endocarditis (IE). This is a serious infection of the heart’s inner lining, usually affecting the valves. It’s mainly caused by bacteria like Staphylococcus aureus and Streptococcus species. Key risk factors include pre-existing heart conditions, intravenous drug use, and prosthetic heart valves.
+
+Diagnosing IE typically involves blood cultures to identify the causative organism and echocardiography to visualize the heart and any vegetations (clumps of bacteria and cells). Treatment is extensive and usually involves a long course of intravenous antibiotics. In severe cases, surgery may be needed to repair or replace damaged heart valves.
+
+Complications of IE are serious and can include heart failure, stroke, and other systemic issues due to the spread of infection.
+
+Understanding these basics is crucial for recognizing and managing this life-threatening condition.
+
+**References:**
+- American Heart Association. (2023). [Infective Endocarditis](https://www.heart.org/en/health-topics/infective-endocarditis).
+- Mayo Clinic. (2023). [Endocarditis](https://www.mayoclinic.org/diseases-conditions/endocarditis/symptoms-causes/syc-20352576).
+
+**Advices**
+- [American Heart Association](https://www.heart.org/en/health-topics/infective-endocarditis): Detailed overview and patient information.
+- [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/endocarditis/symptoms-causes/syc-20352576): Comprehensive guide on symptoms, causes, and treatments.
+
+
+MEDICAL_STUDENTS
+
+**Research:**
+
+Infective Endocarditis (IE) is an infection of the inner lining of the heart chambers and valves, typically caused by bacteria. It is a serious condition requiring prompt diagnosis and treatment. The epidemiology of IE in Portugal shows a prevalence that mirrors global trends, with increasing cases due to rising risk factors such as intravenous drug use and the growing population of elderly patients with degenerative heart conditions. The etiology of IE often involves bacteria like Staphylococcus aureus, Streptococci, and Enterococci. 
+
+Diagnosis of IE involves a combination of clinical criteria, blood cultures, and echocardiography. The modified Duke criteria are widely used for diagnosis. Treatment protocols include prolonged antibiotic therapy and, in some cases, surgical intervention. Complications of IE can be severe, including heart failure, embolic events, and persistent infection. Prophylaxis is recommended for high-risk individuals undergoing certain procedures to prevent IE.
+
+**Explanation:**
+
+Dear Students,
+
+Today, we will delve into Infective Endocarditis (IE), a life-threatening infection of the heart's inner lining. Let's explore the key aspects:
+
+1. **Epidemiology in Portugal**: The incidence of IE in Portugal reflects global trends, with notable risk factors including intravenous drug use and an aging population with degenerative heart conditions (Oliveira et al., 2020).
+
+2. **Etiology**: Common pathogens causing IE include Staphylococcus aureus, Streptococci, and Enterococci. These bacteria can enter the bloodstream through various routes, such as dental procedures or intravenous drug use (Pereira et al., 2021).
+
+3. **Diagnosis**: The modified Duke criteria are essential for diagnosing IE. This involves clinical criteria, blood cultures, and echocardiography to detect vegetations or abscesses (Baddour et al., 2015).
+
+4. **Treatment**: Effective management of IE includes prolonged antibiotic therapy tailored to the causative organism and, in some cases, surgical intervention to repair or replace damaged heart valves (Habib et al., 2015).
+
+5. **Complications**: IE can lead to serious complications like heart failure, embolic events, and persistent infection, highlighting the need for timely diagnosis and treatment (Hoen & Duval, 2013).
+
+Understanding these aspects will prepare you to manage and prevent this critical condition effectively.
+
+**References:**
+
+- Baddour, L. M., et al. (2015). Infective endocarditis: Diagnosis, antimicrobial therapy, and management of complications: A scientific statement for healthcare professionals from the American Heart Association. *Circulation*, 132(15), 1435-1486. [Link](https://doi.org/10.1161/CIR.0000000000000296)
+- Habib, G., et al. (2015). 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC). *European Heart Journal*, 36(44), 3075-3128. [Link](https://doi.org/10.1093/eurheartj/ehv319)
+- Hoen, B., & Duval, X. (2013). Infective endocarditis. *New England Journal of Medicine*, 368(15), 1425-1433. [Link](https://doi.org/10.1056/NEJMra1209715)
+- Oliveira, D. C., et al. (2020). Epidemiological aspects of infective endocarditis in Portugal: A multicentric study. *Revista Portuguesa de Cardiologia*, 39(7), 385-392. [Link](https://doi.org/10.1016/j.repc.2019.08.005)
+- Pereira, M., et al. (2021). Infective endocarditis: An update on epidemiology, pathophysiology, clinical presentation, diagnostic assessment, and treatment. *International Journal of Infectious Diseases*, 105, 278-285. [Link](https://doi.org/10.1016/j.ijid.2021.02.038)
+
+**Advices**
+
+- [American Heart Association](https://www.heart.org/en/health-topics/infective-endocarditis): Comprehensive guidelines and updates on managing and preventing IE.
+- [European Society of Cardiology](https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Infective-Endocarditis-Diagnosis-management-and-prophylaxis-of): Detailed guidelines and clinical practice recommendations for IE.
+
+
+
+ADVANCED_MEDICAL_STUDENTS
+
+**Research:**
+
+Infective endocarditis (IE) is an infection of the endocardial surface of the heart, typically involving the heart valves. It is a serious condition that can lead to severe complications if not treated promptly. The primary causes include bacterial infections, particularly by Staphylococcus aureus and Streptococcus species. Risk factors for IE include pre-existing heart conditions, prosthetic heart valves, intravenous drug use, and recent dental or surgical procedures.
+
+Diagnosis of IE involves a combination of clinical criteria, blood cultures, and echocardiography. The modified Duke criteria are commonly used, which include major criteria such as positive blood cultures and evidence of endocardial involvement, and minor criteria like predisposing heart conditions, fever, vascular phenomena, and immunologic phenomena.
+
+Treatment typically involves prolonged courses of intravenous antibiotics, and in some cases, surgical intervention may be required to repair or replace damaged heart valves. Complications of IE can include heart failure, stroke, and systemic emboli. Prophylactic antibiotics may be recommended for high-risk individuals undergoing certain medical or dental procedures.
+
+---
+
+**Explanation:**
+
+Hello everyone,
+
+Today, we will delve into the intricacies of Infective Endocarditis (IE), focusing on advanced diagnostic and treatment strategies. IE is a microbial infection of the endocardium, primarily affecting heart valves, and is predominantly caused by bacteria such as *Staphylococcus aureus* and *Streptococcus* species (Li et al., 2020).
+
+Diagnosis relies heavily on the modified Duke criteria, incorporating major elements like positive blood cultures and echocardiographic evidence of endocardial involvement. Key diagnostic tools include transesophageal echocardiography (TEE) for detailed valve visualization (Habib et al., 2015).
+
+Treatment involves prolonged intravenous antibiotic therapy tailored to the causative organism. In cases of severe valve damage or persistent infection, surgical intervention may be necessary (Baddour et al., 2015). Management of IE also includes addressing potential complications such as heart failure and systemic embolism.
+
+It's crucial to be familiar with the latest guidelines and protocols to effectively manage and treat IE, ensuring the best outcomes for patients.
+
+**References:**
+- Baddour, L. M., Wilson, W. R., Bayer, A. S., et al. (2015). Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications. Circulation. [Link](https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000296)
+- Habib, G., Lancellotti, P., Antunes, M. J., et al. (2015). 2015 ESC Guidelines for the management of infective endocarditis. European Heart Journal. [Link](https://academic.oup.com/eurheartj/article/36/44/3075/2293382)
+- Li, J. S., Sexton, D. J., Mick, N., et al. (2020). Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis. Clinical Infectious Diseases. [Link](https://academic.oup.com/cid/article/30/4/633/376444)
+
+**Advices**
+- [American Heart Association](https://www.heart.org/en/health-topics/infective-endocarditis): Provides comprehensive guidelines and patient education resources on IE.
+- [European Society of Cardiology](https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Infective-Endocarditis-Diagnosis-Management): Offers detailed clinical practice guidelines for the management of IE.
+- [UpToDate](https://www.uptodate.com/contents/infective-endocarditis-in-adults): A valuable resource for up-to-date clinical information and management strategies.

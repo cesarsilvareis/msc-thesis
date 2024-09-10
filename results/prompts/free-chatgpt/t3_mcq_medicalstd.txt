@@ -1,0 +1,212 @@
+Prompt 1: Possible Answering Exercise
+Produce 5 multiple-choice questions with 4 options for assessing my medical students on what they have learned from Infective Endocarditis classes. All generated questions must have a unique correct answer indicated beneath it, avoiding ambiguity and redundant alternatives.
+
+===
+Prompt 2: Formatted Sheet
+Produce 5 multiple-choice questions (MCQs) with 4 options for assessing my medical students on what they have learned from Infective Endocarditis classes. All generated questions must have a unique correct answer, avoiding ambiguity and redundant alternatives. Additionally, write a small explanation (max. of 45 words) of the solution while you format the questions as follows (do not enclose in code "```"):
+
+MCQ format:"""
+---
+**{question_number}. {question}**
+a) {option_A}
+b) {option_B}
+c) **{option_C}**	# if option_C is the solution
+d) {option_D}
+
+**Explanation:** {solution_explanation}
+
+"""
+
+===
+Prompt 3: Mixing Option Sequence
+Produce 5 multiple-choice questions (MCQs) with 4 options for assessing my medical students on what they have learned from Infective Endocarditis classes. Please, look for this assessment format and the prescribed considerations below.
+
+### MCQ Structure ###
+In your generation attend the question format as follows (do not enclose in code "```"): """
+---
+**{question_number}. {question}**
+a) {option_A}
+b) {option_B}
+c) **{option_C}**            # if option_C is the solution
+d) {option_D}
+
+**Explanation:** {solution_explanation}
+
+"""
+
+### Considerations ###
+- All generated questions must have a unique correct option, avoiding ambiguity and redundant alternatives;
+- The options' labels for the solutions have to be mixed randomly from a) to d) among all generated MCQs;
+- The solutions' explanation should not exceed 45 words.
+
+===
+Prompt 4: Unbiased Option Selection
+Produce 5 multiple-choice questions (MCQs) with 4 options for assessing my medical students on what they have learned from Infective Endocarditis classes. Please, look for this assessment format and the prescribed considerations below.
+
+### MCQ Structure ###
+Each MCQ is formatted as follows (do not enclose in code "```"): """
+---
+**{question_number}. {question}**
+a) {option_A}
+b) {option_B}
+...
+
+**Correct Option:** {solution_option}
+**Explanation:** {solution_explanation}
+
+"""
+
+### Considerations ###
+- All generated questions must have a unique correct solution_option, avoiding ambiguity and redundant alternatives;
+- The options' labels for the solutions have to be mixed randomly from a) to d) among all generated MCQs;
+- Every solution_explanation should not exceed 45 words.
+
+===
+Prompt 5: Medical Topic Variety
+Produce 5 multiple-choice questions (MCQs) with 4 options for assessing my medical students on what they have learned from Infective Endocarditis classes. Please, look for this assessment format and the prescribed considerations below.
+
+### MCQ Structure ###
+Each MCQ is formatted as follows (do not enclose in code "```"): """
+---
+**{question_number}. {question}**
+a) {option_A}
+b) {option_B}
+...
+
+**Correct Option:** {solution_option}
+**Explanation:** {solution_explanation}
+
+"""
+
+### Considerations ###
+- You may select any topic of your choice as long as it is relevant to evaluate clinical terms;
+- All generated questions must have a unique correct solution_option, avoiding ambiguity and redundant alternatives;
+- The options' labels for the solutions have to be mixed randomly from a) to d) among all generated MCQs;
+- Every solution_explanation should not exceed 45 words.
+
+===
+Prompt 6: Use of Distractors
+Produce 5 multiple-choice questions (MCQs) with 4 options for assessing my medical students on what they have learned from Infective Endocarditis classes. Please, look for this assessment format and the prescribed considerations below.
+
+### MCQ Structure ###
+Each MCQ is formatted as follows (do not enclose in code "```"): """
+---
+**{question_number}. {question}**
+a) {option_A}
+b) {option_B}
+...
+
+**Correct Option:** {solution_option}
+**Explanation:** {solution_explanation}
+
+"""
+
+### Considerations ###
+- You may select any topic of your choice as long as it is relevant to evaluate clinical terms;
+- All generated questions must have a unique correct solution_option while others could be compelling distractors, avoiding ambiguity and redundant alternatives;
+- The options' labels for the solutions have to be mixed randomly from a) to d) among all generated MCQs;
+- Every solution_explanation should not exceed 45 words.
+
+===
+Prompt 7: Medical Student Profile
+Assist me in creating multiple-choice questions (MCQs) for my test that I am preparing for assessing my medical students on what they have learned from Infective Endocarditis classes. Respect this assessment layout and attend to the PROFILE provided below.
+
+### Assessment Layout ###
+An evaluation sheet containing 5 MCQs with 4 options to assess medical students.
+
+#### MCQ Structure ####
+Each MCQ is formatted as follows (do not enclose in code "```"): """
+---
+**{question_number}. {question}**
+a) {option_A}
+b) {option_B}
+...
+
+**Correct Option:** {solution_option}
+**Explanation:** {solution_explanation}
+
+"""
+
+#### Considerations ####
+- You may select any topic of your choice as long as it is relevant to evaluate clinical terms;
+- All generated questions must have a unique correct solution_option while others could be compelling distractors, avoiding ambiguity and redundant alternatives;
+- The options' labels for the solutions have to be mixed randomly from a) to d) among all generated MCQs;
+- Every solution_explanation should not exceed 45 words.
+
+[ PROFILE ]
+A regular student of medicine with fundamental medical knowledge and basic clinical practice. In particular, this profile seeks a comprehensive understanding of this cardiovascular pathology.
+- Topics: epidemiology in Portugal and etiology, detailed diagnosis and treatment protocols, risky complications, and rudimentary prophylaxis and prognosis.
+- Target Style: Correct medical terminology and a rigorous, engaged tone.
+
+===
+Prompt 8: Student Level Alignment
+You are a medical teacher assistant in evaluating my medical students. Now, you are preparing a multiple-choice question (MCQ) test to assess them on what they have learned about my Infective Endocarditis lectures. The test complexity should be aligned under the STUDENT_ACADEMIC_LEVEL correspondence while respecting the standard assessment layout.
+
+### Assessment Layout ###
+An evaluation sheet containing 5 MCQs with 4 options to assess medical students.
+
+#### MCQ Structure ####
+Each MCQ is formatted as follows (do not enclose in code "```"): """
+---
+**{question_number}. {question}**
+a) {option_A}
+b) {option_B}
+...
+
+**Correct Option:** {solution_option}
+**Explanation:** {solution_explanation}
+
+"""
+
+#### Considerations ####
+- You may select any topic of your choice as long as it is relevant to evaluate clinical terms;
+- All generated questions must have a unique correct solution_option while others could be compelling distractors, avoiding ambiguity and redundant alternatives;
+- The options' labels for the solutions have to be mixed randomly from a) to d) among all generated MCQs;
+- Every solution_explanation should not exceed 45 words.
+
+[ STUDENT_ACADEMIC_LEVEL ]
+- REGULAR_MEDICAL_STUDENT (3rd-year graduation)
+A regular student of medicine with fundamental medical knowledge and basic clinical practice. In particular, this profile aims to apprehend: (1) epidemiology in Portugal and etiology; (2) detailed diagnosis and treatment protocols; (3) risky complications; and (4) rudimentary prophylaxis and prognosis.
+- ADVANCED_MEDICAL_STUDENT (5th-year graduation)
+A REGULAR_MEDICAL_STUDENT learning advanced diagnostic management and treatment strategies for the disease.
+
+### Your Status ###
+I am currently busy right now... So, I am unable to guide you in generating those MCQs. Please inquire me about the desired degree of the test when you are ready to start.
+
+===
+Prompt 9: Complexifying Exercise
+You are a medical teacher assistant in evaluating my medical students. Now, you are preparing a multiple-choice question (MCQ) test to assess them on what they have learned about my Infective Endocarditis lectures. The test complexity should be aligned under the STUDENT_ACADEMIC_LEVEL correspondence while respecting the standard assessment layout.
+
+### Assessment Layout ###
+An evaluation sheet containing 5 MCQs with 4 options to assess medical students.
+
+#### MCQ Structure ####
+Each MCQ is formatted as follows (do not enclose in code "```"): """
+---
+**{question_number}. {question}**
+a) {option_A}
+b) {option_B}
+...
+
+**Correct Option:** {solution_option}
+**Explanation:** {solution_explanation}
+
+"""
+
+#### Considerations ####
+- You may select any topic of your choice as long as it is relevant to evaluate clinical terms;
+- All generated questions must have a unique correct solution_option while others could be compelling distractors, avoiding ambiguity and redundant alternatives;
+- The options' labels for the solutions have to be mixed randomly from a) to d) among all generated MCQs;
+- Every solution_explanation should not exceed 45 words.
+- Every MCQ should not be simply answering but complex enough to appeal to understanding.
+
+[ STUDENT_ACADEMIC_LEVEL ]
+- REGULAR_MEDICAL_STUDENT (3rd-year graduation)
+A regular student of medicine with fundamental medical knowledge and basic clinical practice. In particular, this profile aims to apprehend: (1) epidemiology in Portugal and etiology; (2) detailed diagnosis and treatment protocols; (3) risky complications; and (4) rudimentary prophylaxis and prognosis.
+- ADVANCED_MEDICAL_STUDENT (5th-year graduation)
+A REGULAR_MEDICAL_STUDENT learning advanced diagnostic management and treatment strategies for the disease.
+
+### Your Status ###
+I am currently busy right now... So, I am unable to guide you in generating those MCQs. Please inquire me about the desired degree of the test when you are ready to start.
+
+===

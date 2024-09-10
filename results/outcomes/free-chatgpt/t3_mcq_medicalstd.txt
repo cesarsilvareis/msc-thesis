@@ -1,0 +1,553 @@
+Prompt 1: Possible Answering Exercise
+1. Which of the following is NOT a common causative agent of infective endocarditis?
+   a) Streptococcus viridans
+   b) Staphylococcus aureus
+   c) Pseudomonas aeruginosa
+   d) Enterococcus faecalis
+
+   Correct answer: c) Pseudomonas aeruginosa
+
+2. What is the most common cardiac valve affected by infective endocarditis?
+   a) Aortic valve
+   b) Pulmonary valve
+   c) Mitral valve
+   d) Tricuspid valve
+
+   Correct answer: a) Aortic valve
+
+3. Which of the following is a classic clinical manifestation of infective endocarditis?
+   a) Hemoptysis
+   b) Janeway lesions
+   c) Ascites
+   d) Bone pain
+
+   Correct answer: b) Janeway lesions
+
+4. Which diagnostic test is most commonly used to confirm the presence of infective endocarditis?
+   a) Chest X-ray
+   b) Electrocardiogram (ECG)
+   c) Blood culture
+   d) Urine analysis
+
+   Correct answer: c) Blood culture
+
+5. What is the primary goal of antimicrobial therapy in treating infective endocarditis?
+   a) Eradicate the causative pathogen
+   b) Reduce fever and pain
+   c) Prevent recurrence of endocarditis
+   d) Repair damaged heart valves
+
+   Correct answer: a) Eradicate the causative pathogen
+
+
+
+===
+Prompt 2: Formatted Sheet
+**1. Which microorganism is the most common cause of native valve infective endocarditis?**
+
+a) Streptococcus pneumoniae
+b) Staphylococcus aureus
+c) **Viridans group streptococci**
+d) Enterococcus faecalis
+
+**Explanation:** Viridans group streptococci are the most common pathogens causing native valve infective endocarditis, especially in individuals with predisposing cardiac conditions.
+
+\_______________________________________________________\_
+
+**2. Which of the following is a classic clinical manifestation of infective endocarditis?**
+
+a) Hypertension
+b) Hyperglycemia
+c) **Janeway lesions**
+d) Clubbing of fingers
+
+**Explanation:** Janeway lesions, small, erythematous, and painless lesions on the palms and soles, are a classic sign of infective endocarditis, caused by septic emboli.
+
+\_______________________________________________________\_
+
+**3. Which imaging modality is preferred for diagnosing infective endocarditis-related valve vegetations?**
+
+a) Chest X-ray
+b) CT scan
+c) **Transesophageal echocardiography**
+d) MRI
+
+**Explanation:** Transesophageal echocardiography (TEE) is more sensitive and specific than transthoracic echocardiography for detecting valve vegetations, which are a hallmark of infective endocarditis.
+
+\_______________________________________________________\_
+
+**4. Which antibiotic is commonly used as prophylaxis against infective endocarditis in high-risk dental procedures?**
+
+a) Ciprofloxacin
+b) Clindamycin
+c) **Amoxicillin**
+d) Vancomycin
+
+**Explanation:** Amoxicillin is the antibiotic of choice for prophylaxis against infective endocarditis in high-risk dental procedures due to its efficacy against oral streptococci.
+
+\_______________________________________________________\_
+
+**5. Which of the following conditions is NOT a predisposing factor for the development of infective endocarditis?**
+
+a) Rheumatic heart disease
+b) Mitral valve prolapse
+c) **Hypertension**
+d) Bicuspid aortic valve
+
+**Explanation:** Hypertension is not a predisposing factor for the development of infective endocarditis; however, rheumatic heart disease, mitral valve prolapse, and bicuspid aortic valve are commonly associated with it.
+
+
+
+===
+Prompt 3: Mixing Option Sequence
+**1. Which of the following is NOT a common causative agent of Infective Endocarditis?**
+
+a) Streptococcus viridans
+b) Staphylococcus aureus
+c) **Escherichia coli**
+d) Enterococcus faecalis
+
+**Explanation:** Escherichia coli is not typically associated with Infective Endocarditis; it commonly causes urinary tract and gastrointestinal infections.
+
+\_______________________________________________________\_
+
+**2. What is the most common cardiac valve affected by Infective Endocarditis?**
+
+a) Aortic valve
+b) Mitral valve
+c) Tricuspid valve
+d) **Pulmonary valve**
+
+**Explanation:** Pulmonary valve involvement is less common but can occur, especially in intravenous drug users and patients with congenital heart disease.
+
+\_______________________________________________________\_
+
+**3. Which of the following is a major criterion in the modified Duke criteria for diagnosing Infective Endocarditis?**
+
+a) Fever \> 38°C
+b) Microbiologic evidence
+c) **Positive echocardiogram**
+d) New valvular regurgitation
+
+**Explanation:** A positive echocardiogram showing vegetation, abscess, or new dehiscence of prosthetic valve rings is a major criterion.
+
+\_______________________________________________________\_
+
+**4. Which of the following is NOT a risk factor for developing Infective Endocarditis?**
+
+a) Rheumatic heart disease
+b) Congenital heart defects
+c) **Hyperthyroidism**
+d) Intravenous drug use
+
+**Explanation:** Hyperthyroidism is not a known risk factor for developing Infective Endocarditis.
+
+\_______________________________________________________\_
+
+**5. Which of the following clinical presentations is characteristic of subacute Infective Endocarditis?**
+
+a) Rapid onset of high fever
+b) **Gradual onset of low-grade fever**
+c) Acute chest pain radiating to the back
+d) Sudden onset of dyspnea and hemoptysis
+
+**Explanation:** Subacute Infective Endocarditis typically presents with nonspecific symptoms, such as low-grade fever, malaise, and weight loss, evolving over weeks to months.
+
+
+===
+Prompt 4: Unbiased Option Selection
+**1. Which organism is most commonly associated with infective endocarditis in intravenous drug users?**
+
+a) Streptococcus viridans
+b) Staphylococcus aureus
+c) Enterococcus faecalis
+d) Streptococcus bovis
+
+**Correct Option:** b) Staphylococcus aureus
+
+**Explanation:** Staphylococcus aureus is the most common organism causing infective endocarditis in intravenous drug users due to its ability to colonize skin and its virulence factors.
+
+\_______________________________________________________\_
+
+**2. Which valve is most commonly affected in infective endocarditis associated with Streptococcus viridans?**
+
+a) Aortic valve
+b) Pulmonary valve
+c) Tricuspid valve
+d) Mitral valve
+
+**Correct Option:** d) Mitral valve
+
+**Explanation:** Streptococcus viridans predominantly affects the mitral valve due to its preference for areas of low-flow turbulence, such as the left side of the heart.
+
+\_______________________________________________________\_
+
+**3. What is the characteristic murmur associated with infective endocarditis involving the aortic valve?**
+
+a) Austin Flint murmur
+b) Graham Steell murmur
+c) Carey Coombs murmur
+d) Osler's nodes murmur
+
+**Correct Option:** a) Austin Flint murmur
+
+**Explanation:** Austin Flint murmur, a low-pitched, rumbling diastolic murmur heard at the apex, is associated with aortic valve involvement in infective endocarditis.
+
+\_______________________________________________________\_
+
+**4. Which diagnostic imaging modality is preferred for detecting vegetation in infective endocarditis?**
+
+a) Magnetic resonance imaging (MRI)
+b) Computed tomography (CT) scan
+c) Transthoracic echocardiography (TTE)
+d) Positron emission tomography (PET) scan
+
+**Correct Option:** c) Transthoracic echocardiography (TTE)
+
+**Explanation:** Transthoracic echocardiography (TTE) is the preferred modality for detecting vegetations in infective endocarditis due to its non-invasive nature and high sensitivity.
+
+\_______________________________________________________\_
+
+**5. What is the most common cardiac complication of infective endocarditis?**
+
+a) Pericardial effusion
+b) Heart failure
+c) Aortic dissection
+d) Myocardial infarction
+
+**Correct Option:** b) Heart failure
+
+**Explanation:** Heart failure is the most common cardiac complication of infective endocarditis, occurring due to valvular dysfunction and myocardial involvement by the infective process.
+
+
+===
+Prompt 5: Medical Topic Variety
+**1. Which of the following is the most common causative organism of Infective Endocarditis in patients with native valves?**
+
+a) Staphylococcus aureus
+b) Streptococcus pneumoniae
+c) Escherichia coli
+d) Viridans streptococci
+
+**Correct Option:** d) Viridans streptococci
+
+**Explanation:** Viridans streptococci are the most common causative organisms of Infective Endocarditis in patients with native valves. While Staphylococcus aureus is a frequent cause, it is more commonly associated with endocarditis in prosthetic valves.
+
+\_______________________________________________________\_
+
+**2. Which of the following is a common risk factor for the development of Infective Endocarditis?**
+
+a) Hypertension
+b) Intravenous drug abuse
+c) Diabetes mellitus
+d) Hyperthyroidism
+
+**Correct Option:** b) Intravenous drug abuse
+
+**Explanation:** Intravenous drug abuse is a significant risk factor for the development of Infective Endocarditis due to the introduction of pathogens into the bloodstream through contaminated needles.
+
+\_______________________________________________________\_
+
+**3. Which cardiac valve is most commonly affected by Infective Endocarditis?**
+
+a) Aortic valve
+b) Pulmonary valve
+c) Mitral valve
+d) Tricuspid valve
+
+**Correct Option:** d) Tricuspid valve
+
+**Explanation:** The tricuspid valve is the most commonly affected valve in Infective Endocarditis, particularly in individuals with a history of intravenous drug abuse.
+
+\_______________________________________________________\_
+
+**4. What is the classic clinical manifestation of Infective Endocarditis?**
+
+a) Dyspnea
+b) Orthopnea
+c) Chest pain
+d) Fever
+
+**Correct Option:** d) Fever
+
+**Explanation:** Fever is a classic clinical manifestation of Infective Endocarditis, often accompanied by other symptoms such as new heart murmurs, embolic phenomena, and systemic manifestations.
+
+\_______________________________________________________\_
+
+**5. Which of the following imaging modalities is most useful for diagnosing complications of Infective Endocarditis, such as valvular vegetations and abscess formation?**
+
+a) X-ray
+b) Transesophageal echocardiography (TEE)
+c) Magnetic resonance imaging (MRI)
+d) Computed tomography (CT)
+
+**Correct Option:** b) Transesophageal echocardiography (TEE)
+
+**Explanation:** Transesophageal echocardiography (TEE) is the most useful imaging modality for diagnosing complications of Infective Endocarditis due to its high sensitivity in detecting valvular vegetations and abscesses, especially when compared to other modalities like X-ray, MRI, or CT.
+
+
+===
+Prompt 6: Use of Distractors
+**1. Which of the following microorganisms is the most common causative agent of native valve infective endocarditis in patients without pre-existing structural heart disease?**
+
+a) Streptococcus bovis
+b) Staphylococcus aureus
+c) Enterococcus faecalis
+d) Viridans group streptococci
+
+**Correct Option:** b) Staphylococcus aureus
+
+**Explanation:** Staphylococcus aureus is a leading cause of infective endocarditis, particularly in patients without underlying heart abnormalities. It can rapidly cause destructive infections on normal heart valves.
+
+\_______________________________________________________\_
+
+**2. Which of the following clinical features is characteristic of subacute infective endocarditis?**
+
+a) Acute onset with high-grade fever
+b) Rapidly progressive heart failure
+c) Osler's nodes and splinter hemorrhages
+d) Splenomegaly and hepatomegaly
+
+**Correct Option:** c) Osler's nodes and splinter hemorrhages
+
+**Explanation:** Subacute infective endocarditis often presents with non-specific symptoms such as Osler's nodes (painful subcutaneous nodules) and splinter hemorrhages (small linear hemorrhages under the nails), distinguishing it from the acute form.
+
+\_______________________________________________________\_
+
+**3. Which valve is most commonly affected in infective endocarditis associated with intravenous drug use (IVDU)?**
+
+a) Aortic valve
+b) Pulmonary valve
+c) Tricuspid valve
+d) Mitral valve
+
+**Correct Option:** c) Tricuspid valve
+
+**Explanation:** Intravenous drug use-related infective endocarditis predominantly affects the tricuspid valve due to direct inoculation of pathogens into the bloodstream through intravenous injections.
+
+\_______________________________________________________\_
+
+**4. What is the most sensitive and specific imaging modality for diagnosing infective endocarditis and detecting complications such as valvular vegetations?**
+
+a) Chest X-ray
+b) Transthoracic echocardiography
+c) Magnetic resonance imaging (MRI)
+d) Positron emission tomography (PET) scan
+
+**Correct Option:** b) Transthoracic echocardiography
+
+**Explanation:** Transthoracic echocardiography (TTE) is the initial imaging of choice for diagnosing infective endocarditis due to its high sensitivity in detecting valvular vegetations and other structural abnormalities of the heart.
+
+\_______________________________________________________\_
+
+**5. Which of the following is the most common complication of infective endocarditis that requires urgent surgical intervention?**
+
+a) Embolic stroke
+b) Valvular regurgitation
+c) Myocardial abscess
+d) Heart block
+
+**Correct Option:** a) Embolic stroke
+
+**Explanation:** Embolic strokes are a serious complication of infective endocarditis, often necessitating urgent surgical intervention to prevent further neurological damage and mortality.
+
+
+===
+Prompt 7: Medical Student Profile
+**1. Which of the following is a common predisposing factor for infective endocarditis?**
+
+a) Hypertension
+b) Chronic obstructive pulmonary disease (COPD)
+c) Intravenous drug abuse
+d) Type 2 diabetes mellitus
+
+**Correct Option:** c) Intravenous drug abuse
+
+**Explanation:** Intravenous drug abuse, particularly with contaminated needles, is a significant risk factor for infective endocarditis due to the introduction of bacteria into the bloodstream.
+
+\_______________________________________________________\_
+
+**2. Which valve is most commonly affected in infective endocarditis?**
+
+a) Aortic valve
+b) Pulmonary valve
+c) Mitral valve
+d) Tricuspid valve
+
+**Correct Option:** c) Mitral valve
+
+**Explanation:** The mitral valve is the most commonly affected valve in infective endocarditis, followed by the aortic valve.
+
+\_______________________________________________________\_
+
+**3. Which of the following organisms is a common causative agent of acute infective endocarditis?**
+
+a) Streptococcus viridans
+b) Staphylococcus epidermidis
+c) Staphylococcus aureus
+d) Enterococcus faecalis
+
+**Correct Option:** c) Staphylococcus aureus
+
+**Explanation:** Staphylococcus aureus is a common cause of acute infective endocarditis, often associated with more aggressive and rapidly progressing infections.
+
+\_______________________________________________________\_
+
+**4. Which diagnostic imaging modality is preferred for detecting vegetations in infective endocarditis?**
+
+a) Magnetic resonance imaging (MRI)
+b) Transesophageal echocardiography (TEE)
+c) Chest X-ray
+d) Computed tomography (CT) scan
+
+**Correct Option:** b) Transesophageal echocardiography (TEE)
+
+**Explanation:** Transesophageal echocardiography (TEE) is more sensitive than transthoracic echocardiography (TTE) and is preferred for detecting vegetations, which are characteristic findings in infective endocarditis.
+
+\_______________________________________________________\_
+
+**5. Which of the following complications is associated with infective endocarditis involving the aortic valve?**
+
+a) Aortic root abscess
+b) Constrictive pericarditis
+c) Ventricular septal defect
+d) Mitral regurgitation
+
+**Correct Option:** a) Aortic root abscess
+
+**Explanation:** Aortic root abscess is a severe complication of infective endocarditis involving the aortic valve, leading to destruction of the aortic root tissue and potentially fatal consequences if not promptly treated.
+
+
+===
+Prompt 8: Student Level Alignment
+**1. Which of the following is the most common causative agent of Infective Endocarditis (IE) in Portugal?**
+
+a) Streptococcus pneumoniae
+b) Staphylococcus aureus
+c) Enterococcus faecalis
+d) Haemophilus influenzae
+
+**Correct Option:** b) Staphylococcus aureus
+
+**Explanation:** While Streptococcus species are common causes of IE globally, Staphylococcus aureus is the predominant pathogen in Portugal, responsible for a significant proportion of cases.
+
+\_______________________________________________________\_
+
+**2. Which diagnostic modality is considered the gold standard for confirming the diagnosis of Infective Endocarditis?**
+
+a) Chest X-ray
+b) Echocardiography
+c) Magnetic Resonance Imaging (MRI)
+d) Electrocardiography (ECG)
+
+**Correct Option:** b) Echocardiography
+
+**Explanation:** Echocardiography, especially transesophageal echocardiography (TEE), is the gold standard for diagnosing IE, allowing visualization of vegetations on heart valves and other structural abnormalities.
+
+\_______________________________________________________\_
+
+**3. Which complication of Infective Endocarditis results from septic emboli lodging in the cerebral vasculature?**
+
+a) Splenic infarction
+b) Osler's nodes
+c) Roth spots
+d) Ischemic stroke
+
+**Correct Option:** d) Ischemic stroke
+
+**Explanation:** Septic emboli from IE can lead to ischemic strokes due to occlusion of cerebral blood vessels by infected material, presenting with symptoms such as sudden neurological deficits.
+
+\_______________________________________________________\_
+
+**4. What is the recommended empiric antibiotic therapy for acute Infective Endocarditis in a patient with no known drug allergies?**
+
+a) Vancomycin + Gentamicin
+b) Penicillin + Ceftriaxone
+c) Ampicillin + Ciprofloxacin
+d) Clindamycin + Linezolid
+
+**Correct Option:** a) Vancomycin + Gentamicin
+
+**Explanation:** Empiric therapy for acute IE typically includes a combination of a beta-lactam antibiotic (such as penicillin or vancomycin) with an aminoglycoside (such as gentamicin) to cover a broad spectrum of pathogens.
+
+\_______________________________________________________\_
+
+**5. Which valve is most commonly affected by Infective Endocarditis in cases associated with intravenous drug use (IVDU)?**
+
+a) Aortic valve
+b) Pulmonary valve
+c) Mitral valve
+d) Tricuspid valve
+
+**Correct Option:** d) Tricuspid valve
+
+**Explanation:** In cases of IE related to intravenous drug use, the tricuspid valve is most commonly affected due to direct inoculation of pathogens into the bloodstream through venous access sites, leading to right-sided endocarditis.
+
+
+===
+Prompt 9: Complexifying Exercise
+**1. Which of the following virulence factors is predominantly associated with Staphylococcus aureus in causing Infective Endocarditis?**
+
+a) Exfoliative toxins
+b) Protein A
+c) Coagulase
+d) Hemolysins
+
+**Correct Option:** b) Protein A
+
+**Explanation:** Protein A, encoded by the spa gene, facilitates immune evasion by binding to the Fc portion of IgG, inhibiting opsonization and phagocytosis, contributing significantly to the pathogenesis of Staphylococcus aureus endocarditis.
+
+\_______________________________________________________\_
+
+**2. A 48-year-old patient presents with a history of intravenous drug use and fever. Upon examination, a new-onset diastolic murmur is detected. Which valve is most commonly affected in intravenous drug users with Infective Endocarditis?**
+
+a) Aortic valve
+b) Mitral valve
+c) Pulmonary valve
+d) Tricuspid valve
+
+**Correct Option:** d) Tricuspid valve
+
+**Explanation:** Intravenous drug users commonly develop right-sided endocarditis affecting the tricuspid valve due to direct injection of contaminants into the venous system.
+
+\_______________________________________________________\_
+
+**3. Which imaging modality is preferred for diagnosing Infective Endocarditis-related complications, such as perivalvular abscesses and fistulae?**
+
+a) Transthoracic echocardiography
+b) Transesophageal echocardiography
+c) Cardiac MRI
+d) Cardiac CT angiography
+
+**Correct Option:** b) Transesophageal echocardiography
+ 
+**Explanation:** Transesophageal echocardiography (TEE) offers superior resolution compared to transthoracic echocardiography (TTE), enabling detailed visualization of perivalvular complications, making it the preferred imaging modality.
+
+\_______________________________________________________\_
+
+**4. Which of the following is a common neurological complication associated with Infective Endocarditis characterized by emboli to the cerebral vasculature, resulting in focal neurological deficits?**
+
+a) Mycotic aneurysm
+b) Intracerebral hemorrhage
+c) Cerebral infarction
+d) Encephalitis
+
+**Correct Option:** c) Cerebral infarction
+ 
+**Explanation:** Cerebral infarction, caused by emboli from infected cardiac vegetations, is a common neurological complication of Infective Endocarditis, leading to focal neurological deficits.
+
+\_______________________________________________________\_
+
+**5. In patients with Infective Endocarditis, which antibiotic combination is recommended for empirical treatment targeting both staphylococci and streptococci until culture results are available?**
+
+a) Vancomycin and gentamicin
+b) Penicillin and ceftriaxone
+c) Ceftriaxone and vancomycin
+d) Penicillin and gentamicin
+
+**Correct Option:** c) Ceftriaxone and vancomycin
+
+**Explanation:** Empirical antibiotic therapy for Infective Endocarditis should cover both staphylococci and streptococci, making the combination of ceftriaxone (or cefepime) and vancomycin the preferred choice until culture results guide further management.
+
+
+===

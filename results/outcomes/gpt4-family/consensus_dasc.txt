@@ -1,0 +1,53 @@
+### Question:
+What is the incidence of Infective Endocarditis (IE) in well-developed countries since the 1980s?
+
+### Table:
+
+| Study Period | Country         | Incidence Rate (cases per 100,000 person-years) | Key Findings                                                                                 |
+|--------------|-----------------|-------------------------------------------------|---------------------------------------------------------------------------------------------|
+| 1970-2006    | USA (Minnesota) | 5.0 to 7.9                                      | Increasing incidence in women; mean age at diagnosis increased; healthcare-associated IE common [(Daniel et al., 2010)](https://consensus.app/papers/trends-endocarditis-populationbased-study-olmsted-sa/91880fdd6b5a5cd8b2708728c0950eba/?utm_source=chatgpt)          |
+| 1990-2019    | Global          | 1.2 annual increase                             | Global incidence increased, especially in older adults and men [(Chen et al., 2021)](https://consensus.app/papers/global-regional-national-burden-trends-infective-chen/e457f0c8e5165e0aae52e8ddaf358191/?utm_source=chatgpt)                                    |
+| 1994-2011    | Denmark         | 3.93 to 7.55                                    | Significant increase, especially in older age groups and men [(Erichsen et al., 2016)](https://consensus.app/papers/increasing-incidence-endocarditis-denmark-19942011-erichsen/4d29685e70695ea68c952499a36a15db/?utm_source=chatgpt)                          |
+| 2005-2014    | Germany         | 11.6 average                                    | Continuous increase, higher prevalence compared to the USA [(Keller et al., 2017)](https://consensus.app/papers/trends-prevalence-infective-endocarditis-germany-keller/1f62a4588f6e5e76a3313402509f7078/?utm_source=chatgpt)                                     |
+| 1970-2018    | USA (Minnesota) | 7.9                                              | Incidence increased, especially for enterococcal IE [(DeSimone et al., 2021)](https://consensus.app/papers/trends-infective-endocarditis-olmsted-county-minnesota-desimone/317785a1bfe45fdfbbbc068f5df1bdde/?utm_source=chatgpt)                                  |
+| 2007-2013    | USA (Minnesota) | 7.4                                              | No significant change; S. aureus most common pathogen [(DeSimone et al., 2015)](https://consensus.app/papers/trends-endocarditis-epidemiology-2007-2013-olmsted-desimone/63deff38fd8e57cfa8a39ede4b471f54/?utm_source=chatgpt)                                 |
+| 1990-2014    | Italy (Tuscany) | 4.6                                              | Increasing incidence; high in elderly; healthcare-associated IE [(Cresti et al., 2017)](https://consensus.app/papers/mortality-trends-endocarditis-17year-populationbased-cresti/c1f4558c54535771b1403e197e4b014d/?utm_source=chatgpt)                           |
+| 2000-2020    | Europe          | 4.1% annual increase                            | Incidence doubled over 20 years; elderly men predominantly affected [(Talha et al., 2021)](https://consensus.app/papers/escalating-incidence-endocarditis-europe-21st-century-talha/7c0eb72df1e35ccc9349abddab2377fc/?utm_source=chatgpt)                    |
+| 1990-2008    | Global          | 1.5 to 11.6                                     | Substantial regional variation; higher in developed countries [(Abdulhak et al., 2014)](https://consensus.app/papers/burden-endocarditis-19902010-review-literature-abdulhak/60170a1f56cc545ab148b860d7d98543/?utm_source=chatgpt)                             |
+
+### References:
+- Daniel D. Correa de Sa, I. Tleyjeh, N. Anavekar, J. Schultz, Justin M. Thomas, B. Lahr, A. Bachuwar, M. Pazdernik, J. Steckelberg, W. Wilson, L. Baddour (2010) | Increasing incidence in women; mean age at diagnosis increased; healthcare-associated IE common | [Link](https://consensus.app/papers/trends-endocarditis-populationbased-study-olmsted-sa/91880fdd6b5a5cd8b2708728c0950eba/?utm_source=chatgpt)
+- Hui-long Chen, Yuan-yuan Zhan, Kaimin Zhang, Yiping Gao, Liyuan Chen, Juan Zhan, Zirui Chen, Zhilin Zeng (2021) | Global incidence increased, especially in older adults and men | [Link](https://consensus.app/papers/global-regional-national-burden-trends-infective-chen/e457f0c8e5165e0aae52e8ddaf358191/?utm_source=chatgpt)
+- P. Erichsen, G. Gislason, N. Bruun (2016) | Significant increase, especially in older age groups and men | [Link](https://consensus.app/papers/increasing-incidence-endocarditis-denmark-19942011-erichsen/4d29685e70695ea68c952499a36a15db/?utm_source=chatgpt)
+- K. Keller, R. V. von Bardeleben, M. Ostad, L. Hobohm, T. Munzel, S. Konstantinides, M. Lankeit (2017) | Continuous increase, higher prevalence compared to the USA | [Link](https://consensus.app/papers/trends-prevalence-infective-endocarditis-germany-keller/1f62a4588f6e5e76a3313402509f7078/?utm_source=chatgpt)
+- D. DeSimone, B. Lahr, N. Anavekar, M. Sohail, I. Tleyjeh, W. Wilson, L. Baddour (2021) | Incidence increased, especially for enterococcal IE | [Link](https://consensus.app/papers/trends-infective-endocarditis-olmsted-county-minnesota-desimone/317785a1bfe45fdfbbbc068f5df1bdde/?utm_source=chatgpt)
+- D. DeSimone, I. Tleyjeh, Daniel D. Correa de Sa, N. Anavekar, B. Lahr, M. Sohail, J. Steckelberg, W. Wilson, L. Baddour (2015) | No significant change; S. aureus most common pathogen | [Link](https://consensus.app/papers/trends-endocarditis-epidemiology-2007-2013-olmsted-desimone/63deff38fd8e57cfa8a39ede4b471f54/?utm_source=chatgpt)
+- A. Cresti, M. Chiavarelli, M. Scalese, C. Nencioni, S. Valentini, F. Guerrini, I. D'aiello, A. Picchi, F. De Sensi, G. Habib (2017) | Increasing incidence; high in elderly; healthcare-associated IE | [Link](https://consensus.app/papers/mortality-trends-endocarditis-17year-populationbased-cresti/c1f4558c54535771b1403e197e4b014d/?utm_source=chatgpt)
+- Khawaja M. Talha, L. Baddour, Martin H. Thornhill, Verda Arshad, Wajeeha Tariq, I. Tleyjeh, C. Scott, Meredith C. Hyun, K. Bailey, N. Anavekar, R. Palraj, M. R. Sohail, D. DeSimone, M. Dayer (2021) | Incidence doubled over 20 years; elderly men predominantly affected | [Link](https://consensus.app/papers/escalating-incidence-endocarditis-europe-21st-century-talha/7c0eb72df1e35ccc9349abddab2377fc/?utm_source=chatgpt)
+- Aref A. Bin Abdulhak, L. Baddour, P. Erwin, B. Hoen, V. Chu, G. Mensah, I. Tleyjeh (2014) | Substantial regional variation; higher in developed countries | [Link](https://consensus.app/papers/burden-endocarditis-19902010-review-literature-abdulhak/60170a1f56cc545ab148b860d7d98543/?utm_source=chatgpt)
+
+
+### Question:
+What are the rare causes of blood culture negative IE? Which diagnostic procedures are adequate for non-bacterial pathogens?
+
+### Table:
+
+| **Cause** | **Description** | **Diagnostic Procedures** |
+| --- | --- | --- |
+| **Fastidious bacteria** | Includes organisms like HACEK group bacteria, Gemella, Granulicatella, Abiotrophia spp., and Propionibacterium acnes. | Prolonged incubation, special culture conditions, and PCR on excised valve tissue. |
+| **Intracellular bacteria** | Common agents include Coxiella burnetii, Bartonella spp., and Tropheryma whipplei. | Serological tests for Coxiella and Bartonella; PCR for Tropheryma whipplei. |
+| **Fungi** | Rarely causes IE, but Candida spp. is notable. | Culture and PCR on valve tissue. |
+| **Non-infective causes** | Includes marantic endocarditis and endocarditis related to systemic diseases like lupus and Behçet’s disease. | Histological analysis and serology for autoimmune markers. |
+| **Other rare pathogens** | Includes organisms like Mycobacterium, Legionella, Brucella, and Mycoplasma. | Culture, PCR, and specific serological tests. |
+| **Non-bacterial thrombotic endocarditis** | Often associated with malignancies and autoimmune disorders. | Histological analysis of excised valve tissue. |
+
+### References:
+- [Tattevin et al., 2015](https://consensus.app/papers/update-blood-culturenegative-endocarditis-tattevin/7cb389d86ee854189caf6ffd58ad027d/?utm_source=chatgpt) | Discusses classifications and common causes of blood culture negative IE.
+- [Subedi et al., 2017](https://consensus.app/papers/laboratory-approach-diagnosis-culturenegative-subedi/cb69752d1b2e54b1aafcd3dadee501f6/?utm_source=chatgpt) | Reviews diagnostic approaches including molecular techniques.
+- [Fournier et al., 2010](https://consensus.app/papers/comprehensive-strategy-blood-endocarditis-study-cases-fournier/749b5b22964d5e0a86cfae4818b88959/?utm_source=chatgpt) | Highlights the importance of zoonotic agents and non-infective causes in BCNE.
+- [Godfrey et al., 2020](https://consensus.app/papers/blood-culture-endocarditis-rrna-sequencing-godfrey/d438eb47f7d350a4a15fc17b9889d156/?utm_source=chatgpt) | Describes the role of 16S rRNA sequencing in diagnosing BCNE.
+- [Houpikian & Raoult, 2005](https://consensus.app/papers/blood-culturenegative-endocarditis-reference-center-houpikian/f02d650026595ccfb2a4c8e50838514e/?utm_source=chatgpt) | Discusses the etiologies and diagnostic strategies for BCNE.
+- [Katsouli & Massad, 2013](https://consensus.app/papers/issues-diagnosis-management-blood-endocarditis-katsouli/fef8598724995f94b8170be935fb71e5/?utm_source=chatgpt) | Provides insights into the diagnosis and management of BCNE.
+- [Alozie et al., 2015](https://consensus.app/papers/arthralgia-blood-culturenegative-endocarditis-suggest-alozie/6c1d523c14185f6597a2670ecfdbb630/?utm_source=chatgpt) | Presents case studies of Tropheryma whipplei-related endocarditis.
+- [Dähler et al., 2022](https://consensus.app/papers/analysis-blood-endocarditis-care-centre-switzerland-dähler/045d0a17a07f5b71962e46432d5ed6a5/?utm_source=chatgpt) | Analyzes BCNE cases in Switzerland, emphasizing the role of PCR in diagnosis.
+

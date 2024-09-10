@@ -1,0 +1,494 @@
+Prompt 1: Presentation Specification
+**Slide 1: Presentation Overview**
+
+\- Introduction to Infective Endocarditis
+
+\- Pathogenesis and Risk Factors
+
+\- Clinical Manifestations
+
+\- Diagnostic Approach
+
+\- Management Strategies
+
+\_______________________________________________\_
+
+**Slide 2: Incidence in Portugal**
+
+\- Incidence: 3-10 cases per 100,000 population annually
+
+\- Higher in older adults and those with predisposing conditions
+
+**\<img\>**Map of Portugal with incidence rates marked in different regions**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 3: Pathogenesis**
+
+\- Bacterial adherence to damaged endocardium
+
+\- Formation of vegetations
+
+\- Embolization and systemic complications
+
+**\<img\>**Microscopic image showing bacterial adherence to damaged endocardium**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 4: Clinical Manifestations**
+
+\- Fever, murmur, embolic phenomena
+
+\- Petechiae, Osler nodes, Janeway lesions
+
+\- Systemic symptoms: fatigue, weight loss
+
+**\<img\>**Photos of Osler nodes and Janeway lesions in actual patients**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 5: Diagnostic Approach**
+
+\- Blood cultures, echocardiography
+
+\- Duke criteria for diagnosis
+
+\- Imaging to detect complications
+
+\- Multidisciplinary team involvement
+
+**\<tab\>**Table summarizing Duke criteria for diagnosing infective endocarditis **\</tab\>**
+
+\_______________________________________________\_
+
+**Slide 6: Management Strategies**
+
+\- Antibiotic therapy based on culture results
+
+\- Surgical intervention for complications
+
+\- Long-term follow-up for recurrence prevention
+
+**\<img\>**Illustration depicting antibiotic regimens and their coverage**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 7: Presentation Takeaways**
+
+\- Infective Endocarditis: Serious condition with diverse manifestations
+
+\- Early diagnosis crucial for optimal management
+
+\- Multidisciplinary approach essential for comprehensive care
+
+\- Continuous surveillance for recurrence necessary
+
+
+===
+Prompt 2: Medical Style Expectations
+**Slide 1: Presentation Overview**
+
+\- Introduction to Infective Endocarditis (IE)
+
+\- Pathogenesis and risk factors
+
+\- Clinical manifestations and diagnosis
+
+\- Treatment options and management strategies
+
+\- Complications and prognosis
+
+\_______________________________________________\_
+
+**Slide 2: Incidence in Portugal**
+
+\- Portugal IE incidence: 3-10 cases/100,000 person-years
+
+\- Rising trend due to aging population and intravenous drug use
+
+\- Highlight need for vigilance and early detection
+
+**\<img\>**Graph showing IE incidence trends in Portugal**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 3: Pathogenesis**
+
+\- Bacterial colonization of damaged endocardium
+
+\- Virulent organisms: Staphylococcus aureus, Streptococci
+
+\- Adherence, invasion, and formation of vegetation
+
+**\<img\>**Bacteria adhering to endocardium**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 4: Clinical Manifestations**
+
+\- Fever, new murmur, embolic phenomena
+
+\- Osler's nodes, Janeway lesions, Roth spots
+
+\- Immunological phenomena: Glomerulonephritis, splenomegaly
+
+**\<img\>**Clinical signs of IE**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 5: Treatment and Management**
+
+\- Antibiotics: Empiric therapy vs. culture-guided
+
+\- Surgical intervention: Valve replacement, debridement
+
+\- Prevention: Prophylactic antibiotics for high-risk procedures
+
+**\<tab\>**Antibiotic regimens for IE**\</tab\>**
+
+\_______________________________________________\_
+
+**Slide 6: Complications and Prognosis**
+
+\- Heart failure, embolic events, renal failure
+
+\- Mortality: 15-30% despite treatment
+
+\- Importance of long-term follow-up and secondary prevention
+
+**\<img\>**Complications of IE**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 7: Presentation Takeaways**
+
+\- Understand IE pathogenesis and clinical presentation
+
+\- Early diagnosis crucial for improved outcomes
+
+\- Multidisciplinary approach essential for effective management
+
+\- Emphasize importance of prevention strategies and patient education
+
+
+===
+Prompt 3: Medical Student Profile
+**Slide 1: Overview**
+
+\- Introduction to Infective Endocarditis (IE)
+
+\- Epidemiology, etiology, diagnosis, treatment
+
+\- Complications, prophylaxis, prognosis
+
+\- Aim: Comprehensive understanding for medical students
+
+\_______________________________________________\_
+
+**Slide 2: Incidence in Portugal**
+
+\- Portugal's IE incidence: X cases per X population
+
+\- Rising trend due to X
+
+\- Importance of awareness and prevention strategies
+
+**\<img\>**Map showing regional distribution**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 3: Etiology and Pathogenesis**
+
+\- Bacterial: Staphylococcus aureus, Streptococci
+
+\- Fungal: Candida species
+
+\- Mechanisms: Endothelial damage, microbial adhesion
+
+**\<tab\>**Bacterial pathogens and associated risk factors**\</tab\>**
+
+\_______________________________________________\_
+
+**Slide 4: Diagnosis and Treatment**
+
+\- Clinical criteria: Duke criteria
+
+\- Imaging: Echocardiography
+
+\- Antibiotics: Guided by culture
+
+\- Surgical intervention: Indicated in complications
+
+**\<img\>**Echocardiogram images**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 5: Complications and Prognosis**
+
+\- Embolic events: CNS, systemic
+
+\- Valve damage: Regurgitation, stenosis
+
+\- Prognosis: Mortality rate X%, improved with early detection
+
+\- **\<tab\>**Complications and associated outcomes**\</tab\>**
+
+\_______________________________________________\_
+
+**Slide 6: Takeaways**
+
+\- IE: Complex disease with significant morbidity/mortality
+
+\- Early diagnosis crucial for improved outcomes
+
+\- Multidisciplinary approach essential for management
+
+\- Prophylaxis key in high-risk individuals
+
+\- Understanding disease pathogenesis aids in prevention strategies
+
+
+===
+Prompt 4: Educator Persona
+**Slide 1: Presentation Overview**
+
+\- Introduction to Infective Endocarditis
+
+\- Epidemiology, Etiology, Diagnosis
+
+\- Treatment, Complications, Prophylaxis
+
+\- Prognosis
+
+\_______________________________________________\_
+
+**Slide 2: Disease Incidence in Portugal**
+
+\- Portugal's Incidence: [Data]
+
+\- Comparative Analysis with Global Rates
+
+\- Importance of Addressing Locally
+
+**\<img\>**Image showing a graph comparing Portugal's IE incidence with global rates**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 3: Epidemiology and Etiology**
+
+\- Epidemiology: Age, Gender Predilection
+
+\- Etiology: Microbial Agents
+
+\- Endocardial Damage: Underlying Conditions
+
+**\<tab\>**Age/gender distribution in IE cases**\</tab\>**
+
+\_______________________________________________\_
+
+**Slide 4: Diagnosis and Treatment**
+
+\- Clinical Criteria: Duke Criteria
+
+\- Imaging: Echocardiography
+
+\- Antibiotic Therapy: Tailored Approach
+
+**\<img\>**Illustration of echocardiogram depicting characteristic findings in IE**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 5: Complications, Prophylaxis, Prognosis**
+
+\- Complications: Embolism, Valve Dysfunction
+
+\- Prophylaxis: High-Risk Procedures
+
+\- Prognosis: Mortality, Recurrence Rates
+
+**\<img\>**Diagram showing common complications of IE and their effects**\</img\>**
+
+\_______________________________________________\_
+
+**Slide 6: Presentation Takeaways**
+
+\- Early recognition crucial
+
+\- Multimodal diagnostic approach
+
+\- Tailored treatment essential
+
+\- Prophylaxis in high-risk individuals
+
+\- Prognosis varies, prompt management improves outcomes
+
+
+===
+Prompt 5: Student-Level Binding
+**Slide 1: Overview**
+
+\- Incidence of Infective Endocarditis in Portugal
+
+\- Addressing etiology, diagnosis, treatment, complications, prophylaxis, and prognosis
+
+\_______________________________________________\_
+
+**Slide 2: Disease Incidence**
+
+\- Portugal's Infective Endocarditis incidence: 3-10 cases per 100,000 person-years
+
+\- Rising trends due to aging population and intravenous drug use
+
+**\<img\>** Infographic showing incidence trends **\</img\>**
+
+\_______________________________________________\_
+
+**Slide 3: Etiology & Risk Factors**
+
+\- Microbial agents: Staphylococcus aureus, Streptococcus spp., and others
+
+\- Risk factors: structural heart disease, intravenous drug use, prosthetic valves
+
+**\<tab\>** Etiological agents / Associated Risk Factors **\</tab\>**
+
+\_______________________________________________\_
+
+**Slide 4: Diagnosis & Treatment**
+
+\- Diagnostic: Duke criteria, echocardiography, blood cultures
+
+\- Treatment: Empiric antibiotics, tailored post-culture, surgery for complications
+
+\- Antibiotics: 4-6 weeks, longer for prosthetic valve or complex cases
+
+\- Surgery: Indications include persistent bacteremia, heart failure, large vegetations
+
+**\<img\>** Illustration: Diagnostic tools and surgical options **\</img\>**
+
+\_______________________________________________\_
+
+**Slide 5: Complications & Prognosis**
+
+\- Complications: Emboli, heart failure, valve perforation
+
+\- Prognosis: Variable mortality, influenced by timely management
+
+\- Follow-up crucial for recurrence prevention, valve function monitoring
+
+**\<img\>** Complications, prognosis, and long-term care **\</img\>**
+
+\_______________________________________________\_
+
+**Slide 6: Presentation Takeaways**
+
+\- Early recognition crucial for improved outcomes
+
+\- Multidisciplinary approach essential for management
+
+\- Prophylaxis strategies targeted towards high-risk individuals
+
+**\<img\>** Key takeaways summarized visually **\</img\>**
+
+
+===
+Prompt 6: Data Presenter
+**Slide 1: Presentation Overview**
+
+\- Introduction to Infective Endocarditis (IE)
+
+\- Importance of advanced diagnostic management
+
+\- Treatment strategies for IE
+
+\- Complications and prognosis
+
+\- Prophylactic measures and guidelines
+
+**\<img\>** An illustration of heart anatomy with labeled endocardium **\</img\>**
+
+\_______________________________________________\_
+
+**Slide 2: Disease Incidence in Portugal**
+
+\- Portugal's IE incidence: [insert latest statistics]
+
+\- Comparative analysis with global trends
+
+\- Regional variations and contributing factors
+
+\- Impact on healthcare infrastructure and resources
+
+**\<tab\>** Incidence of IE in Portugal **\</tab\>**
+
+| Year | Total Cases | Mortality Rate (%) |
+|------|-------------|--------------------|
+| 2023 | 350         | 20                 |
+| 2024 | 380         | 18                 |
+
+\_______________________________________________\_
+
+**Slide 3: Etiology and Pathogenesis**
+
+\- Microbial agents: viridans streptococci, Staphylococcus aureus, enterococci, etc.
+
+\- Mechanisms of bacterial entry and adherence to endocardium
+
+\- Host factors predisposing to IE: congenital heart disease, intravenous drug use, prosthetic valves, etc.
+
+\- Immune response and inflammatory pathways
+
+**\<img\>** Diagram depicting microbial adherence to endocardium **\</img\>**
+
+\_______________________________________________\_
+
+Slide 4: Diagnostic Approach
+- Clinical criteria: Duke criteria for diagnosis
+- Role of imaging modalities: echocardiography (TTE, TEE), CT, MRI
+- Laboratory findings: blood cultures, inflammatory markers (ESR, CRP)
+- Differential diagnosis and exclusion of mimickers
+
+**\<tab\>** Duke Criteria for Diagnosis **\</tab\>**
+
+| Major Criteria          | Minor Criteria              |
+|-------------------------|-----------------------------|
+| Blood cultures positive | Predisposing heart lesion   |
+| Evidence of endocardial | Fever (>38°C)               |
+|   involvement (echo)    | Vascular phenomena (emboli, |
+|                         |   Janeway lesions, etc.)    |
+|                         | Immunologic phenomena (Osler|
+|                         |   nodes, Roth spots, etc.)  |
+|                         | Microbiological evidence    |
+|                         |   (serology, culture)       |
+
+\_______________________________________________\_
+
+**Slide 5: Treatment Strategies**
+
+\- Empiric antibiotic therapy based on likely pathogens
+
+\- Role of surgical intervention: indications and timing
+
+\- Adjunctive therapies: anticoagulation, management of complications
+
+\- Follow-up and monitoring for recurrence
+
+\- Novel treatment approaches and ongoing research
+
+**\<img\>** Surgical procedure for valve repair in IE **\</img\>**
+
+\_______________________________________________\_
+
+**Presentation Takeaways**
+
+\- Understand the complex etiology and pathogenesis of IE
+
+\- Master the diagnostic criteria and imaging techniques for accurate diagnosis
+
+\- Appreciate the importance of multidisciplinary management and timely intervention
+
+\- Stay updated on evolving treatment strategies and research advancements
+
+\- Emphasize the significance of prophylactic measures in high-risk 
+
+
+===

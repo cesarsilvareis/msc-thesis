@@ -1,0 +1,480 @@
+Prompt 1: Limited Slide Length
+Slide 1:
+Title: Understanding Infective Endocarditis
+Image: Heart diagram
+Text: Infective Endocarditis is a rare but serious infection of the heart's inner lining and valves, often caused by bacteria entering the bloodstream.
+
+Slide 2:
+Title: Causes
+Image: Microscopic bacteria
+Text: Bacteria entering the bloodstream through dental procedures, surgeries, or skin infections can infect the heart valves, leading to Infective Endocarditis.
+
+Slide 3:
+Title: Symptoms
+Image: Graphic of symptoms
+Text: Symptoms include fever, fatigue, abnormal heart rhythms, and potentially life-threatening complications like stroke or heart failure.
+Slide 4:
+Title: Diagnosis and Treatment
+Image: Doctor with stethoscope
+Text: Diagnosis involves blood tests, echocardiograms, and clinical assessment. Treatment includes antibiotics and sometimes surgery to repair or replace damaged heart valves.
+
+Slide 5:
+Title: Prevention
+Image: Healthy lifestyle
+Text: Good dental hygiene, prompt treatment of infections, and appropriate use of antibiotics can help prevent Infective Endocarditis. Consult a healthcare professional for guidance.
+
+
+
+===
+Prompt 2: Slide Format
+**Slide 1: Introduction to Infective Endocarditis**
+
+\- Rare bacterial infection
+
+\- Affects heart's inner lining
+
+\- Can damage heart valves
+
+\- Potentially life-threatening
+
+\___________________________________________\_
+
+**Slide 2: Causes of Infective Endocarditis**
+
+\- Bacteria enter bloodstream
+
+\- Reach heart valves
+
+\- Common in those with heart defects
+
+\- Also linked to IV drug use
+
+\___________________________________________\_
+
+**Slide 3: Symptoms of Infective Endocarditis**
+
+\- Fever and chills
+
+\- Fatigue and weakness
+
+\- Heart murmurs
+
+\- Shortness of breath
+
+\___________________________________________\_
+
+**Slide 4: Diagnosis and Treatment**
+
+\- Blood tests for bacteria
+
+\- Echocardiogram for heart damage
+
+\- Antibiotics for treatment
+
+\- Surgery for severe cases
+
+\___________________________________________\_
+
+**Slide 5: Prevention and Complications**
+
+\- Good oral hygiene
+
+\- Antibiotics before dental procedures
+
+\- Complications: heart failure, stroke
+
+\- Mortality rate without treatment: 30-50%
+
+
+
+===
+Prompt 3: Slide Body Details
+**Slide 1: Introduction to Infective Endocarditis**
+
+\- Definition
+
+\- Causes
+
+\- Risk factors
+
+**\<img\>** Illustration of heart anatomy **\</img\>**
+
+\___________________________________________\_
+
+**Slide 2: Pathogenesis**
+
+\- Microbial invasion
+
+\- Formation of vegetations
+
+\- Damage to heart valves
+
+**\<img\>** Schematic of microbial invasion **\</img\>**
+
+\___________________________________________\_
+
+**Slide 3: Clinical Features**
+
+\- Fever
+
+\- Heart murmur
+
+\- Embolic events
+
+**\<img\>** Image of a patient with fever **\</img\>**
+
+\___________________________________________\_
+
+**Slide 4: Diagnosis**
+
+\- Blood cultures
+
+\- Echocardiography
+
+\- Duke criteria
+
+**\<img\>** Echocardiogram image **\</img\>**
+
+\___________________________________________\_
+
+**Slide 5: Treatment and Prevention**
+
+\- Antibiotics
+
+\- Surgery
+
+\- Dental hygiene
+
+**\<img\>** Antibiotic pills **\</img\>**
+
+
+
+===
+Prompt 4: Completing Slide on Diversity
+**Slide 1: Introduction to Infective Endocarditis**
+
+\- Definition: Infection of heart valves or endocardium.
+
+\- Causes: Bacterial or fungal invasion.
+
+\- Risk factors: Heart defects, IV drug use.
+
+**\<img\>** An illustration depicting heart valves infected with bacteria. **\</img\>**
+
+\___________________________________________\_
+
+**Slide 2: Symptoms and Diagnosis**
+
+\- Symptoms: Fever, fatigue, heart murmur.
+
+\- Diagnosis: Blood cultures, echocardiogram.
+
+\- Complications: Valve damage, embolism.
+
+**\<tab\>** Early diagnosis/accurate treatment **\</tab\>**
+
+\___________________________________________\_
+
+**Slide 3: Pathogenesis**
+
+\- Microbial colonization: Bacteria adhere to damaged heart tissue.
+
+\- Formation of vegetations: Bacterial growth on valves.
+
+\- Immune response: Inflammation, tissue damage.
+
+**\<img\>** Microscopic view of bacterial colonization on heart valve tissue. **\</img\>**
+
+\___________________________________________\_
+
+**Slide 4: Treatment**
+
+\- Antibiotics: Target specific pathogens.
+
+\- Surgery: Valve replacement for severe cases.
+
+\- Follow-up: Monitoring for recurrence.
+
+**\<tab\>** Antibiotics/surgery efficacy rates **\</tab\>**
+
+\___________________________________________\_
+
+**Slide 5: Prevention and Conclusion**
+
+\- Dental hygiene: Reduce bacteremia risk.
+
+\- Prophylactic antibiotics: For high-risk procedures.
+
+\- Conclusion: Prompt recognition and treatment vital for patient outcomes.
+
+**\<img\>** Healthy heart illustration emphasizing prevention measures. **\</img\>**
+
+
+
+===
+Prompt 5: Towards Non-Medical Pursuits
+**Slide 1: Introduction to Infective Endocarditis**
+
+Infective Endocarditis (IE) is a serious infection of the heart's inner lining or valves, often caused by bacteria. It can lead to severe complications if not treated promptly.
+
+\___________________________________________\_
+
+**Slide 2: Risk Factors for IE**
+
+\- **Heart Conditions:** Valve abnormalities, congenital heart defects.
+
+\- **Medical Procedures:** Dental work, surgeries.
+
+\- **Intravenous Drug Use:** Needle sharing increases infection risk.
+
+**\<img\>** Diagram showing heart anatomy and potential infection routes **\</img\>**
+
+\___________________________________________\_
+
+**Slide 3: Signs and Symptoms of IE**
+
+\- **Fever**
+
+\- **Heart Murmur**
+
+\- **Petechiae (small red spots)**
+
+\- **Weakness**
+
+\- **Joint Pain**
+
+**\<img\>** Examples of petechiae and heart murmur **\</img\>**
+
+\___________________________________________\_
+
+**Slide 4: Diagnosis and Treatment**
+
+\- **Blood Cultures:** Identify causative bacteria.
+
+\- **Echocardiography:** Visualize heart structures.
+
+\- **Antibiotics:** Tailored to specific bacteria.
+
+\- **Surgery:** Valve repair or replacement in severe cases.
+
+**\<tab\>** Blood culture vials/ echocardiogram results **\</tab\>**
+
+\___________________________________________\_
+
+**Slide 5: Prevention of IE**
+
+\- **Maintain Dental Hygiene:** Regular brushing and flossing.
+
+\- **Prophylactic Antibiotics:** Before certain dental procedures.
+
+\- **Intravenous Drug Safety:** Avoid sharing needles.
+
+**\<img\>** Dental tools, antibiotic pills **\</img\>**
+
+
+===
+Prompt 6: Specific Slide Requirements
+**Slide 1: Presentation Overview**
+
+\- Introduction to Infective Endocarditis (IE)
+
+\- Causes, symptoms, and risk factors
+
+\- Diagnosis and treatment options
+
+\- Complications and prevention strategies
+
+\- Analogy for understanding
+
+\___________________________________________\_
+
+**Slide 2: What is Infective Endocarditis?**
+
+\- Infection of heart valves or endocardium
+
+\- Bacteria enter bloodstream and attach to damaged heart tissue
+
+\- Leads to inflammation and formation of vegetations
+
+\___________________________________________\_
+
+**Slide 3: Causes and Symptoms**
+
+\- Causes: Bacteria (e.g., Staphylococcus), fungi
+
+\- Symptoms: Fever, chills, fatigue, heart murmur, petechiae
+
+\- Risk factors: Heart defects, IV drug use, dental procedures
+
+\___________________________________________\_
+
+**Slide 4: Diagnosis and Treatment**
+
+\- Diagnosis: Blood cultures, echocardiogram
+
+\- Treatment: Antibiotics, possible surgery for severe cases
+
+\- Importance of prompt diagnosis and treatment
+
+\___________________________________________\_
+
+**Slide 5: Complications and Prevention**
+
+\- Complications: Heart failure, stroke, septic emboli
+
+\- Prevention: Antibiotic prophylaxis for high-risk procedures, good oral hygiene
+
+\- Importance of regular check-ups for heart health
+
+\___________________________________________\_
+
+**Slide 6: Analogy for Understanding**
+
+Just as students of cardio-pneumology study the intricate connections between heart and lungs, IE illustrates the critical importance of safeguarding heart health amidst microbial challenges.
+
+
+===
+Prompt 7: Non-Medical Style Expectations
+**Slide 1: Introduction**
+
+\- Overview of Infective Endocarditis (IE)
+
+\- Importance of understanding IE
+
+\- Simplified explanation of IE's impact on heart health
+
+\- No jargon, engaging tone
+
+\___________________________________________\_
+
+**Slide 2: What is IE?**
+
+\- Bacterial infection of heart lining
+
+\- Damages heart valves
+
+\- Risk factors: dental work, IV drug use
+
+\- Symptoms: fever, fatigue
+
+**\<img\>**Illustration of bacteria attacking heart valves**\</img\>**
+
+\___________________________________________\_
+
+**Slide 3: Diagnosis and Treatment**
+
+\- Diagnosis: blood cultures, echocardiogram
+
+\- Treatment: antibiotics, surgery
+
+\- Importance of early detection
+
+**\<tab\>**Diagnostic tests: blood cultures, echocardiogram**\</tab\>**
+
+\___________________________________________\_
+
+**Slide 4: Complications and Prevention**
+
+\- Complications: heart failure, stroke
+
+\- Prevention: good oral hygiene, IV drug safety
+
+\- Importance of regular check-ups
+
+**\<img\>**Illustration of complications like stroke and heart failure**\</img\>**
+
+\___________________________________________\_
+
+**Slide 5: Analogy for Understanding**
+
+Similar to microbiology students examining the interplay of pathogens and host defenses, studying Infective Endocarditis highlights the intricate battle within the heart's ecosystem against invading microbes.
+
+
+===
+Prompt 8: Non-Medical Student Profile
+**Slide 1: Overview of Infective Endocarditis**
+
+\- Definition
+
+\- Common causes
+
+\- Risk factors
+
+\- Basic diagnosis
+
+\- Possible complications
+
+\- Generic treatment options
+
+\___________________________________________\_
+
+**Slide 2: Understanding Infective Endocarditis**
+
+\- Bacteria entering bloodstream
+
+\- Heart valve infection
+
+\- Clots formation
+
+\- Damage to heart valves
+
+\- Can affect anyone
+
+**\<img\>**Illustration of bacteria entering bloodstream and infecting heart valves**\</img\>**
+
+\___________________________________________\_
+
+**Slide 3: Risk Factors and Causes**
+
+\- Dental procedures
+
+\- Poor oral hygiene
+
+\- Heart valve defects
+
+\- IV drug use
+
+\- Previous endocarditis
+
+**\<tab\>**Common risk factors/causes**\<tab\>**
+
+\___________________________________________\_
+
+**Slide 4: Diagnosis and Complications**
+
+\- Blood cultures
+
+\- Echocardiogram
+
+\- Fever, fatigue, heart murmur
+
+\- Stroke, heart failure, abscesses
+
+\- Compromised heart function
+
+**\<Img\>**Illustration of echocardiogram procedure**\</Img\>**
+
+\___________________________________________\_
+
+**Slide 5: Treatment Approach**
+
+\- Antibiotics
+
+\- Surgery for severe cases
+
+\- Rest and monitoring
+
+\- Follow-up care and prevention
+
+\- Teamwork among healthcare professionals
+
+**\<Tab\>**Treatment options/management**\</Tab\>**
+
+\___________________________________________\_
+
+**Slide 6: Analogy for Understanding**
+
+\- Think of the heart as a castle guarded by knights (immune system). If invaders (bacteria) breach the gates (valves), chaos (endocarditis) ensues.
+
+
+===

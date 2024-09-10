@@ -1,0 +1,156 @@
+#### Etiology & Pathophysiology - MCQ-o1 
+
+---
+**1. Which of the following organisms is the most common cause of infective endocarditis in intravenous drug users?**
+a) Streptococcus viridans
+b) Staphylococcus aureus
+c) Enterococcus faecalis
+d) Pseudomonas aeruginosa
+
+**Correct Option:** b) Staphylococcus aureus
+**Explanation:** Staphylococcus aureus is the most common cause of infective endocarditis in intravenous drug users due to direct inoculation into the bloodstream.
+
+
+#### Identification & Diagnosis - MCQ-o2
+
+---
+**1. A 45-year-old male with a history of intravenous drug use presents with fever, night sweats, and a new heart murmur. Blood cultures are positive for Staphylococcus aureus. What is the most appropriate next step in the diagnosis of infective endocarditis?**
+a) Perform a transthoracic echocardiogram (TTE)
+b) Order a chest X-ray
+c) Initiate empirical antibiotic therapy
+d) Conduct a transesophageal echocardiogram (TEE)
+
+**Correct Option:** d) Conduct a transesophageal echocardiogram (TEE)
+**Explanation:** TEE is more sensitive than TTE for detecting vegetations and complications in infective endocarditis, especially in high-risk patients like those with a history of intravenous drug use.
+
+
+#### Identification & Diagnosis - MCQ-o3
+
+---
+**Which of the following is the most common initial clinical presentation of infective endocarditis?**
+a) Acute respiratory distress
+b) Fever and heart murmur
+c) Sudden severe headache
+d) Painless jaundice
+
+**Correct Option:** b) Fever and heart murmur
+**Explanation:** Fever and heart murmur are common initial signs of infective endocarditis, aiding early diagnosis and treatment.
+
+
+#### Portuguese Epidemiology - MCQ-o4
+
+Sure, here's an MCQ focused on Portuguese Epidemiology for an ADVANCED_MEDICAL_STUDENT:
+
+---
+**1. Which of the following statements accurately describes the trend of infective endocarditis (IE) incidence in Portugal in recent years?**
+a) The incidence of IE has decreased due to improved sanitation.
+b) The incidence of IE has remained stable with no significant changes.
+c) The incidence of IE has increased, particularly among elderly patients.
+d) The incidence of IE has increased due to widespread antibiotic resistance.
+
+**Correct Option:** c
+**Explanation:** Recent data indicates an increase in IE incidence in Portugal, especially among the elderly, due to higher prevalence of comorbidities and medical procedures.
+
+---
+
+Feel free to let me know if you need further questions or modifications!
+
+
+#### Prophylaxis & Prognosis - MCQ-o5
+
+Great! Based on the provided evaluative topic and academic degree, here is an MCQ tailored for advanced medical students focusing on the prophylaxis and prognosis of infective endocarditis:
+
+---
+**1. Which of the following is the most appropriate prophylactic measure for a patient with a prosthetic heart valve undergoing a dental procedure?**
+a) Regular use of antiseptic mouthwash
+b) Administration of amoxicillin before the procedure
+c) Daily aspirin therapy
+d) Annual influenza vaccination
+
+**Correct Option:** b) Administration of amoxicillin before the procedure
+**Explanation:** Amoxicillin is recommended for prophylaxis to prevent infective endocarditis in patients with prosthetic heart valves undergoing dental procedures.
+
+---
+
+If you need any more MCQs or adjustments, feel free to ask!
+
+
+#### Complications & Treatment - MCQ-o6
+
+Got it! Here’s an MCQ tailored for a 3rd-year regular medical student on the topic of Complications & Treatment in Infective Endocarditis:
+
+---
+**1. Which of the following is the most common complication of infective endocarditis?**
+a) Pulmonary embolism  
+b) Myocardial infarction  
+c) Congestive heart failure  
+d) Acute kidney injury  
+
+**Correct Option:** c) Congestive heart failure  
+**Explanation:** Congestive heart failure is the most common complication of infective endocarditis, often resulting from valvular damage.
+
+---
+
+If you need another MCQ or have any other requests, feel free to let me know!
+
+
+#### Complications & Treatment - MCQ-o7
+
+Sure, here is an MCQ for an advanced medical student focusing on the complications and treatment of infective endocarditis:
+
+---
+**1. Which of the following complications is most commonly associated with infective endocarditis and requires immediate surgical intervention?**
+a) Splenic infarction
+b) Cerebral embolism
+c) Heart failure due to valvular destruction
+d) Septic arthritis
+
+**Correct Option:** c
+**Explanation:** Heart failure due to valvular destruction is a common and severe complication of infective endocarditis, often necessitating urgent surgical intervention to repair or replace the damaged valve.
+
+
+#### Prophylaxis & Prognosis - MCQ-o8
+
+---
+**1. What is the primary purpose of antibiotic prophylaxis in patients at risk for infective endocarditis (IE)?**
+a) To treat existing infections.
+b) To prevent bacteremia during invasive procedures.
+c) To strengthen the immune system.
+d) To cure chronic endocarditis.
+
+**Correct Option:** b) To prevent bacteremia during invasive procedures.
+**Explanation:** Antibiotic prophylaxis is used to prevent bacteremia, which can lead to IE in at-risk patients undergoing invasive procedures.
+
+
+#### Etiology & Pathophysiology - MCQ-o9
+
+Great, I'll prepare an MCQ for your advanced medical students on the topic of Etiology & Pathophysiology of Infective Endocarditis.
+
+---
+**Which of the following organisms is most commonly associated with subacute infective endocarditis in patients with pre-existing valvular abnormalities?**
+a) Staphylococcus aureus  
+b) Streptococcus viridans  
+c) Enterococcus faecalis  
+d) Pseudomonas aeruginosa  
+
+**Correct Option:** b) Streptococcus viridans  
+**Explanation:** Streptococcus viridans is commonly associated with subacute infective endocarditis, particularly in patients with pre-existing valvular abnormalities, due to its lower virulence compared to organisms like Staphylococcus aureus.
+
+---
+
+Feel free to let me know if you need more questions or any modifications.
+
+
+#### Portuguese Epidemiology - MCQ-o10
+
+---
+**Which of the following statements about the epidemiology of infective endocarditis (IE) in Portugal is correct?**
+
+a) The incidence of infective endocarditis in Portugal has significantly decreased over the past decade.
+b) Streptococcus viridans is the most common pathogen responsible for infective endocarditis in Portugal.
+c) The incidence of infective endocarditis is higher in urban areas of Portugal compared to rural areas.
+d) Infective endocarditis in Portugal is more common in individuals over the age of 60.
+
+**Correct Option:** d
+
+**Explanation:** In Portugal, infective endocarditis is more prevalent among older adults, particularly those over 60, due to higher rates of comorbidities and healthcare-associated factors.

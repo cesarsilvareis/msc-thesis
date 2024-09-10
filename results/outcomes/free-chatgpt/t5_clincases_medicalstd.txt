@@ -1,0 +1,543 @@
+Prompt 1: Implicit Evaluation Setup
+**Clinical Case Study Evaluation Scheme**
+
+**Case Scenario:**
+
+A 45-year-old male patient presents to the emergency department with fever, chills, and malaise for the past week. He has a history of intravenous drug use and a recent dental procedure. On examination, you note a new-onset murmur and splinter hemorrhages on his fingernails.
+
+**Instructions to Students:**
+
+Please evaluate the following clinical case and answer the questions provided to demonstrate your understanding of Infective Endocarditis.
+
+1\. **Identification and Diagnosis:**
+
+\- Identify the potential risk factors for infective endocarditis in this patient.
+
+\- Describe the clinical manifestations of infective endocarditis evident in this case.
+
+\- Explain the diagnostic criteria you would employ to confirm the diagnosis of infective endocarditis in this patient.
+
+2\. **Pathophysiology and Microbiology:**
+
+\- Discuss the pathophysiological processes underlying the development of infective endocarditis.
+
+\- Describe the microbial agents most commonly associated with infective endocarditis and their mechanisms of pathogenesis.
+
+3\. **Complications and Prognosis:**
+
+\- List the potential complications of infective endocarditis.
+
+\- Explain the prognostic factors that may influence the outcome of infective endocarditis in this patient.
+
+4\. **Management and Treatment:**
+
+\- Outline the general principles of management for infective endocarditis.
+
+\- Propose an appropriate antibiotic regimen for this patient based on the suspected causative organism and risk factors.
+
+5\. **Prevention and Follow-Up:**
+
+\- Discuss strategies for the prevention of infective endocarditis in high-risk individuals.
+
+\- Outline the necessary follow-up and monitoring for patients following treatment for infective endocarditis.
+
+**Additional Notes:**
+
+\- Utilize your knowledge of microbiology, cardiology, infectious diseases, and clinical reasoning to answer the questions thoroughly.
+
+\- Justify your answers with evidence-based medicine and clinical guidelines where applicable.
+
+\- Consider the patient's history, clinical presentation, and potential complications when formulating your responses.
+
+\- You have 30 minutes to complete the evaluation.
+
+
+===
+Prompt 2: Consistent Evaluation Setup
+**I. Case Scenario:**
+
+A 45-year-old male presents to the emergency department with fever, chills, and malaise for the past week. He also complains of fatigue and shortness of breath on exertion. On examination, you notice a new murmur on auscultation.
+
+**II. Instructions:**
+
+1\. Review the case scenario carefully.
+
+2\. Answer the following questions based on your knowledge of Infective Endocarditis.
+
+**III. Questions:**
+
+*A. Etiology and Risk Factors:*
+
+Q1. What are the common pathogens responsible for infective endocarditis?
+
+Q2. List the predisposing factors for developing infective endocarditis.
+
+Q3. How does intravenous drug use contribute to the risk of infective endocarditis?
+
+*B. Clinical Presentation:*
+
+Q4. Describe the classic symptoms and signs of infective endocarditis.
+
+Q5. Why is the presence of a new murmur significant in diagnosing infective endocarditis?
+
+Q6. Explain how systemic embolization can manifest in infective endocarditis patients.
+
+*C. Diagnostic Evaluation:*
+
+Q7. What are the initial diagnostic tests you would order for a suspected case of infective endocarditis?
+
+Q8. How do blood cultures aid in the diagnosis of infective endocarditis?
+
+Q9. Discuss the role of echocardiography in confirming the diagnosis of infective endocarditis.
+
+*D. Management and Complications:*
+
+Q10. Outline the general principles of antibiotic therapy for infective endocarditis.
+
+Q11. What are the potential complications of infective endocarditis, and how would you manage them?
+
+Q12. Explain the criteria for surgical intervention in infective endocarditis cases.
+
+**IV. Additional Notes:**
+
+\- Duration time: 30 minutes
+
+\- Encourage critical thinking and application of theoretical knowledge in clinical context.
+
+\- Emphasize the importance of prompt diagnosis and management in improving patient outcomes.
+
+
+===
+Prompt 3: Parameterize Case Scenario
+**I. Case Scenario:**
+
+Mr. Smith, a 52-year-old male, presents with fever, chills, and malaise for the past two weeks. He has a history of mitral valve prolapse and recent dental work.
+
+**Physical Examination:**
+
+\- Temperature: 38.5°C
+
+\- Heart rate: 110 bpm
+
+\- New regurgitant murmur heard at the apex
+
+\- Splinter hemorrhages under the fingernails
+
+**II. Instructions:**
+
+1\. Perform necessary diagnostic tests to confirm the diagnosis.
+
+2\. Evaluate the patient's risk factors and predisposing conditions.
+
+**III. Questions:**
+
+*A. Pathogenesis and Risk Factors:*
+
+Q1. Describe the pathogenesis of infective endocarditis.
+
+Q2. What are the major risk factors for developing infective endocarditis?
+
+*B. Clinical Presentation:*
+
+Q3. Explain the typical clinical manifestations of infective endocarditis.
+
+Q4. How does infective endocarditis typically present in patients with preexisting valvular abnormalities?
+
+*C. Diagnostic Evaluation:*
+
+Q5. What diagnostic tests are essential for confirming a diagnosis of infective endocarditis?
+
+Q6. Interpret the significance of positive blood cultures in suspected infective endocarditis.
+
+*D. Management:*
+
+Q7. Outline the general principles of antimicrobial therapy for infective endocarditis.
+
+Q8. When is surgical intervention indicated in the management of infective endocarditis?
+
+**IV. Additional Notes:**
+
+\- Duration time: 60 minutes
+
+\- Encourage critical thinking and application of theoretical knowledge to practical scenarios.
+
+\- Emphasize the importance of interdisciplinary collaboration in the diagnosis and management of infective endocarditis.
+
+
+===
+Prompt 4: Assembling Properties
+**I. Case Scenario:**
+
+Mr. Smith, a 55-year-old male, presents to the emergency department complaining of fever, fatigue, and shortness of breath for the past two weeks. He has a history of mitral valve prolapse and recent dental work. On examination, he is febrile with a temperature of 39°C, has a heart murmur consistent with mitral regurgitation, and splinter hemorrhages are noted on his nails.
+
+**Physical Examination:**
+
+| *Parameter*            | *Findings*                                    |
+|----------------------|---------------------------------------------|
+| Temperature          | 39°C                                        |
+| Heart Sounds         | Murmur consistent with mitral regurgitation |
+| Nail Examination     | Splinter hemorrhages present                |
+
+**II. Instructions:**
+
+1\. Read the case scenario and physical examination findings carefully.
+
+2\. Answer the questions based on your knowledge of Infective Endocarditis.
+
+3\. You have 45 minutes to complete the test.
+
+**III. Questions:**
+
+*A. Pathophysiology:*
+
+Q1. Describe the pathogenesis of Infective Endocarditis.
+
+Q2. Explain the role of viridans streptococci in causing Infective Endocarditis.
+
+*B. Clinical Presentation:*
+
+Q3. Discuss the typical clinical manifestations of Infective Endocarditis.
+
+Q4. How does the clinical presentation of subacute bacterial endocarditis differ from acute bacterial endocarditis?
+
+*C. Diagnosis:*
+
+Q5. Outline the diagnostic criteria for Infective Endocarditis according to the modified Duke criteria.
+
+Q6. What imaging modalities are useful in the diagnosis of Infective Endocarditis, and why?
+
+*D. Treatment:*
+
+Q7. List the empiric antibiotic therapy for Infective Endocarditis.
+
+Q8. When is surgical intervention indicated in the management of Infective Endocarditis?
+
+*E. Complications and Prognosis:*
+
+Q9. Discuss the major complications of Infective Endocarditis.
+
+Q10. What factors influence the prognosis of patients with Infective Endocarditis?
+
+**IV. Additional Notes:**
+
+\- Duration time: 45 minutes.
+
+\- Ensure your answers are concise and accurate.
+
+\- Refer to the provided case scenario and physical examination findings for context while answering the questions.
+
+
+===
+Prompt 5: Case-Focused Test
+**I. Case Scenario:**
+
+Mr. Smith, a 56-year-old male with a history of rheumatic heart disease, presents to the emergency department with a two-week history of fevers, chills, and fatigue. He also reports experiencing shortness of breath on exertion and a recent onset of a new murmur. On physical examination:
+
+| *Findings*            | *Description*                           |
+| Vital Signs         | Temperature: 38.5°C (101.3°F)         |
+|                     | Heart Rate: 110 bpm                   |
+|                     | Blood Pressure: 130/80 mmHg           |
+|                     | Respiratory Rate: 20 breaths/min      |
+|---------------------|---------------------------------------|
+| General Appearance  | Fatigued, pale, diaphoretic           |
+|---------------------|---------------------------------------|
+| Cardiac Examination | New holosystolic murmur heard best at |
+|                     |  the apex Splinter hemorrhages on     |
+|                     |  nail beds.                           |
+|                     | Osler nodes on fingertips, Janeway    |
+|                     | lesions on palms, clubbing of fingers |
+
+
+**II. Instructions:**
+
+Read the case scenario and complete the following questions based on your knowledge of Infective Endocarditis.
+
+**III. Questions:**
+
+*A. Identification and Diagnosis:*
+
+Q1. What are the major and minor criteria for diagnosing Infective Endocarditis according to the modified Duke criteria?
+
+Q2. Based on Mr. Smith's presentation, which clinical findings are suggestive of Infective Endocarditis?
+
+*B. Pathophysiology and Etiology:*
+
+Q3. Describe the pathophysiology of Infective Endocarditis, including the mechanisms by which microorganisms adhere to and colonize damaged heart valves.
+
+Q4. What are the common pathogens responsible for Infective Endocarditis, and how do their virulence factors contribute to disease progression?
+
+*C. Clinical Features:*
+
+Q5. Discuss the typical clinical manifestations of Infective Endocarditis and how they may vary based on the causative organism and patient characteristics.
+
+Q6. Explain the significance of the Janeway lesions, Osler nodes, and splinter hemorrhages observed in Mr. Smith's physical examination.
+
+*D. Diagnostic Workup:*
+
+Q7. Outline the diagnostic workup for Infective Endocarditis, including laboratory tests, imaging modalities, and their respective roles in confirming the diagnosis.
+
+Q8. How does echocardiography contribute to the diagnosis and management of Infective Endocarditis?
+
+*E. Treatment and Management:*
+
+Q9. What is the initial empiric antibiotic therapy for Infective Endocarditis, and how is it tailored based on the suspected causative organism and patient-specific factors?
+
+Q10. Discuss the role of surgical intervention in the management of Infective Endocarditis, including indications and timing of surgery.
+
+**IV. Additional Notes:**
+
+\- Duration time: 60 minutes.
+
+\- Please ensure to provide concise and accurate responses to each question.
+
+\- Use complete sentences and proper medical terminology where applicable.
+
+
+
+===
+Prompt 6: Medical Profile
+**I. Case Scenario:**
+
+Mary, a 45-year-old female with a history of intravenous drug use, presents to the emergency department with complaints of fever, chills, and fatigue of several weeks' duration.
+
+| *Physical Examination Findings* | *Description*                 |
+|-------------------------------|-----------------------------|
+| New Heart Murmur              | Systolic murmur heard       |
+|                               |  loudest at the aortic area |
+|-------------------------------|-----------------------------|
+| Splinter Hemorrhages          | Small, linear hemorrhages   |
+|                               |   under fingernails         |
+|-------------------------------|-----------------------------|
+| Temperature                   | 102°F (38.9°C)              |
+
+**II. Instructions:**
+
+Review the case scenario and physical examination findings carefully. Answer the following questions based on your understanding of Infective Endocarditis (IE) and its clinical presentation.
+
+**III. Questions:**
+
+*A. Identification and Diagnosis:*
+
+Q1. What are the major and minor Duke criteria for diagnosing Infective Endocarditis?
+
+Q2. How would you interpret the significance of the new heart murmur in Mary?
+
+Q3. What initial laboratory tests and imaging studies would you order to investigate suspected Infective Endocarditis in Mary?
+
+*B. Pathophysiology and Microbiology:*
+
+Q4. Describe the pathophysiology of Infective Endocarditis. How does it typically occur in patients with a history of intravenous drug use?
+
+Q5. Which microorganisms are commonly responsible for causing Infective Endocarditis in patients with predisposing cardiac conditions?
+
+*C. Complications and Management:*
+
+Q6. What are potential complications of untreated Infective Endocarditis?
+
+Q7. Outline the principles of management for Mary, including empirical antibiotic therapy and indications for surgical intervention.
+
+*D. Prognosis and Practical Application:*
+
+Q8. Discuss the prognosis of Infective Endocarditis, especially in patients like Mary with predisposing factors such as intravenous drug use.
+
+Q9. How would you educate Mary on strategies to prevent recurrence of Infective Endocarditis?
+
+*E. Epidemiology and Risk Factors:*
+
+Q10. Discuss the epidemiology of Infective Endocarditis, including common risk factors and patient populations at increased risk.
+
+**IV. Additional Notes:**
+
+\- Duration time: 60 minutes.
+
+\- Students are encouraged to demonstrate their understanding of IE through clinical reasoning and evidence-based responses.
+
+\- Use concise but comprehensive answers to address each question thoroughly.
+
+
+
+===
+Prompt 7: Student-Level Alignment
+**I. Case Scenario:**
+
+Mr. Santos, a 45-year-old male, presents to the emergency department with a one-week history of fever, chills, and fatigue. He has a history of intravenous drug use and recent dental work. On examination, he appears unwell with the following findings:
+
+| *Parameter*             | *Findings*                             |
+| Temperature           | 102°F (38.9°C)                       |
+| Cardiac Examination   | New diastolic murmur at the apex     |
+| Nail Examination      | Splinter hemorrhages on fingernails  |
+
+**II. Instructions:**
+
+1\. Read the case scenario and physical examination findings carefully.
+
+2\. Answer the following questions based on your understanding of advanced diagnostic and treatment strategies for Infective Endocarditis.
+
+**III. Questions:**
+
+*A. Identification and Diagnosis:*
+
+Q1. What are the major Duke criteria for diagnosing Infective Endocarditis?
+
+Q2. How does transesophageal echocardiography (TEE) contribute to the diagnosis of Infective Endocarditis compared to transthoracic echocardiography (TTE)?
+
+*B. Etiology and Pathogenesis:*
+
+Q3. Describe the typical pathogens associated with Infective Endocarditis in intravenous drug users.
+
+Q4. Explain the concept of bacterial virulence in the context of endocardial infection.
+
+*C. Diagnostic Management:*
+
+Q5. Outline the role of blood cultures in diagnosing Infective Endocarditis.
+
+Q6. Discuss the significance of echocardiography findings in the diagnostic workup.
+
+*D. Treatment Strategies:*
+
+Q7. What are the recommended antibiotic regimens for treating Infective Endocarditis caused by Staphylococcus aureus?
+
+Q8. Explain the rationale behind surgical intervention in cases of Infective Endocarditis.
+
+*E. Complications and Prognosis:*
+
+Q9. Enumerate potential complications of Infective Endocarditis.
+
+Q10. How does the timing of antibiotic therapy affect prognosis in Infective Endocarditis?
+
+**IV. Additional Notes**
+
+\- Test Duration: 90 minutes
+
+\- Ensure to provide detailed explanations and rationale in your answers.
+
+This test is designed to assess your knowledge and understanding of advanced diagnostic and treatment principles in Infective Endocarditis. Good luck!
+
+
+===
+Prompt 8: Complexifying Case Scenario
+**I. Case Scenario:**
+
+Mr. Garcia, a 58-year-old male with a history of intravenous drug abuse, presents to the emergency department complaining of fever, chills, and malaise for the past two weeks. He also reports experiencing increasing shortness of breath and a persistent cough. Upon further inquiry, he admits to injecting heroin regularly. His medical history is significant for hepatitis C and chronic obstructive pulmonary disease (COPD). Vital signs: temperature 38.9°C, heart rate 110 bpm, blood pressure 130/80 mmHg, respiratory rate 22 breaths per minute, and oxygen saturation 92% on room air.
+
+**Physical Examination:**
+
+\- Auscultation reveals a grade 3/6 holosystolic murmur best heard at the apex.
+
+\- Splinter hemorrhages noted on the fingernails.
+
+\- Petechiae observed on the palate.
+
+\- Osler's nodes present on the fingertips.
+
+\- Janeway lesions found on the palms and soles.
+
+**II. Instructions:**
+
+1\. Carefully read the case scenario and physical examination findings.
+
+2\. Answer the following questions based on your knowledge and the provided information.
+
+**III. Questions:**
+
+*A. Identification and Diagnosis:*
+
+Q1. What are the major and minor criteria of the Duke criteria for diagnosing infective endocarditis?
+
+Q2. Based on the clinical presentation and physical examination findings, what is the most likely organism causing infective endocarditis in this patient?
+
+Q3. How would you confirm the diagnosis of infective endocarditis in this patient? Discuss the role of blood cultures and echocardiography in diagnosis.
+
+*B. Pathogenesis and Etiology:*
+
+Q4. Explain the pathogenesis of infective endocarditis in patients with a history of intravenous drug abuse. How does it differ from infective endocarditis in patients with native valve disease?
+
+Q5. Discuss the role of dental procedures in the development of infective endocarditis. What are the recommendations regarding antibiotic prophylaxis in this context?
+
+*C. Diagnostic Management:*
+
+Q6. What laboratory tests would you order to further evaluate this patient? How would you interpret the results?
+
+Q7. Describe the role of transesophageal echocardiography (TEE) in the diagnosis and management of infective endocarditis.
+
+*D. Treatment Strategies:*
+
+Q8. Outline the empiric antibiotic therapy for infective endocarditis in a patient with a history of intravenous drug abuse. Include the choice of antibiotics and the duration of therapy.
+
+Q9. Discuss the indications for surgical intervention in infective endocarditis. What are the surgical options available for this patient?
+
+*E. Complications and Prognosis:*
+
+Q10. What are the potential complications of untreated infective endocarditis? How would you counsel the patient regarding these complications?
+
+Q11. What factors influence the prognosis of infective endocarditis in this patient? Discuss the impact of early diagnosis and appropriate management on prognosis.
+
+**IV. Additional Notes**
+- Duration time: 90 minutes
+- This test assesses your understanding of infective endocarditis management at an advanced level. Answer all questions thoroughly and justify your responses with relevant clinical reasoning and evidence-based medicine.
+
+===
+Prompt 9: Practical Applicability
+**I. Case Scenario:**
+
+Mr. Garcia, a 62-year-old gentleman, presents to the emergency department with a two-week history of persistent low-grade fever, fatigue, and progressive dyspnea on exertion. He has a past medical history significant for hypertension and type 2 diabetes mellitus. Upon further questioning, he mentions recent dental work done three weeks ago.
+
+**Physical Examination:**
+
+\- Temperature: 38.5°C (101.3°F)
+
+\- Heart rate: 110 bpm, regular rhythm
+
+\- Blood pressure: 140/90 mmHg
+
+\- Cardiac auscultation reveals a 3/6 systolic ejection murmur heard best at the left sternal border, radiating to the carotids.
+
+**II. Instructions:**
+
+1\. Carefully read the clinical case scenario and physical examination findings provided.
+
+2\. Answer the following questions based on your knowledge and understanding of Infective Endocarditis.
+
+**III. Questions:**
+
+*A. Identification and Diagnosis:*
+
+Q1. Describe the Duke criteria for diagnosing Infective Endocarditis.
+
+Q2. Based on the clinical presentation and physical examination findings, what are the major and minor criteria present in this case?
+
+Q3. Discuss the role of echocardiography in the diagnosis of Infective Endocarditis.
+
+*B. Pathogenesis and Microbiology:*
+
+Q4. Explain the pathogenesis of Infective Endocarditis, focusing on the mechanisms of microbial colonization and invasion.
+
+Q5. What are the common microorganisms responsible for Infective Endocarditis, and how do they differ between native and prosthetic valves?
+
+*C. Management and Treatment:*
+
+Q6. Outline the initial empiric antibiotic therapy for treating suspected Infective Endocarditis.
+
+Q7. Discuss the role of surgical intervention in the management of Infective Endocarditis and the indications for surgery.
+
+*D. Complications and Prognosis:*
+
+Q8. Enumerate the potential complications of Infective Endocarditis and their management strategies.
+
+Q9. What factors influence the prognosis of patients with Infective Endocarditis?
+
+*E. Practical Application:*
+
+Q10. Considering Mr. Garcia's recent dental work, what prophylactic measures should have been taken to prevent Infective Endocarditis?
+
+Q11. How would you educate Mr. Garcia regarding his condition and the importance of adherence to treatment?
+
+Q12. Discuss the importance of interdisciplinary collaboration in the management of Infective Endocarditis, citing specific healthcare professionals involved.
+
+**IV. Additional Notes**
+- Duration time: 90 minutes
+- Use your knowledge and critical thinking skills to answer each question thoroughly and concisely.
+- Ensure your responses are tailored to the high-level medical student's understanding of Infective Endocarditis.
+
+
+===

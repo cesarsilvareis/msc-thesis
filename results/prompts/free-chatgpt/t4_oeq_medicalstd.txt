@@ -1,0 +1,255 @@
+Prompt 1: Ambitious Demand
+Assess my medical students by making 3 open-ended questions covering what they have learned about Infective Endocarditis in class.
+
+Just output the questions for now.
+
+===
+Prompt 2: Formatted Sheet
+Assess my medical students by making 3 open-ended questions (OEQ) covering what they have learned about Infective Endocarditis in class. Follow the OEQ format given below, where each is complemented with a concise and well-founded example answer.
+
+Output format:"""
+**Q{question_number}. {question}**
+
+*Example Answer:*
+
+{standard_response}
+
+"""
+
+===
+Prompt 3: Standard Answer Constraints
+Assess my medical students by making 3 open-ended questions (OEQ) covering what they have learned about Infective Endocarditis in class. Follow precisely the given assessment format and considerations below.
+
+### OEQ Structure ###
+OEQs are formatted as follows (do not enclose in code "```"):
+"""
+**Q{question_number}. {question}**
+
+*Example Answer:*
+
+{standard_response}
+
+"""
+
+### Considerations ###
+Every standard_response is limited to a maximum of 55 English words, concisely showing to medical students an example of a well-built, correct written answer to its question.
+
+===
+Prompt 4: As Thought-Provoking Questions
+Assess my medical students by making 3 open-ended questions (OEQ) covering what they have learned about Infective Endocarditis in class. Follow precisely the given assessment format and considerations below.
+
+### OEQ Structure ###
+OEQs are formatted as follows (do not enclose in code "```"):
+"""
+**Q{question_number}. {question}**
+
+*Example Answer:*
+
+{standard_response}
+
+"""
+
+### Considerations ###
+- OEQs are for pedagogical purposes, being thought-provoking questions that can stimulate critical thinking in a discussion environment.
+- Every standard_response is limited to a maximum of 55 English words, concisely showing to medical students an example of a well-built, correct written answer to its question.
+
+===
+Prompt 5: Think Focused
+Assist me in creating a test with open-ended questions (OEQ) for assessing my medical students covering the application of theoretical aspects of what they have learned about Infective Endocarditis in my lectures. Please follow precisely the given assessment layout.
+
+### Assessment Layout ###
+The evaluation sheet requires 3 OEQs. Think first about preparing those questions one by one before pointing out a standard answer to them.
+
+Test sheet format:"""
+**OEQ Descriptions:** 
+{question_1_description}
+{question_2_description}
+...
+
+**OEQ Test:**
+{test}
+
+"""
+
+#### OEQ Structure ####
+OEQs are formatted as follows (do not enclose in code "```"):
+"""
+**Q{question_number}. {question}**
+
+*Example Answer:*
+
+{standard_response}
+
+"""
+
+#### Considerations ####
+- OEQs are for pedagogical purposes, being thought-provoking questions that can stimulate critical thinking in a discussion environment.
+- Every standard_response is limited to a maximum of 55 English words, concisely showing to medical students an example of a well-built, correct written answer to its question.
+
+===
+Prompt 6: Medical Profile
+Assist me in creating a test with open-ended questions (OEQ) for assessing my medical students covering the application of theoretical aspects of what they have learned about Infective Endocarditis in my lectures. Please follow precisely the given assessment layout and respect the PROFILE of my students.
+
+### Assessment Layout ###
+The evaluation sheet requires 3 OEQs. Think first about preparing those questions one by one before pointing out a standard answer to them.
+
+Test sheet format:"""
+**OEQ Descriptions:** 
+{question_1_description}
+{question_2_description}
+...
+
+**OEQ Test:**
+{test}
+
+"""
+
+#### OEQ Structure ####
+OEQs are formatted as follows (do not enclose in code "```"):
+"""
+**Q{question_number}. {question}**
+
+*Example Answer:*
+
+{standard_response}
+
+"""
+
+#### Considerations ####
+- OEQs are for pedagogical purposes, being thought-provoking questions that can stimulate critical thinking in a discussion environment.
+- Every standard_response is limited to a maximum of 55 English words, concisely showing to medical students an example of a well-built, correct written answer to its question.
+
+[ PROFILE ]
+A regular student of medicine with fundamental medical knowledge and basic clinical practice. In particular, this profile seeks a comprehensive understanding of this cardiovascular pathology.
+- Topics: epidemiology in Portugal and etiology, detailed diagnosis and treatment protocols, risky complications, and rudimentary prophylaxis and prognosis.
+- Target Style: Correct medical terminology and a rigorous, engaged tone.
+
+===
+Prompt 7: Evaluator Persona
+As a medical teacher, you assess your students on what they have learned from Infective Endocarditis in class by making a monthly evaluation sheet with a myriad set of question categories to choose from. Your favorite type comes to be open-ended questions (OEQ), so you are pondering placing some exercises in any test you create from now on. However, test complexity should be always connected to the STUDENT_ACADEMIC_LEVEL, while respecting the standard assessment layout and its considerations.
+
+### Assessment Layout ###
+The evaluation sheet requires 3 OEQs. Think first about preparing those questions one by one before pointing out a standard answer to them.
+
+Test sheet format:"""
+**OEQ Descriptions:** 
+{question_1_description}
+{question_2_description}
+...
+
+**OEQ Test:**
+{test}
+
+"""
+
+#### OEQ Structure ####
+OEQs are formatted as follows (do not enclose in code "```"):
+"""
+**Q{question_number}. {question}**
+
+*Example Answer:*
+
+{standard_response}
+
+"""
+
+#### Considerations ####
+- OEQs are for pedagogical purposes, being thought-provoking questions that can stimulate critical thinking in a discussion environment.
+- Every standard_response is limited to a maximum of 55 English words, concisely showing to medical students an example of a well-built, correct written answer to its question.
+
+[ STUDENT_ACADEMIC_LEVEL ]
+- REGULAR_MEDICAL_STUDENT (3rd-year graduation)
+A regular student of medicine with fundamental medical knowledge and basic clinical practice. In particular, this profile aims to apprehend: (1) epidemiology in Portugal and etiology; (2) detailed diagnosis and treatment protocols; (3) risky complications; and (4) rudimentary prophylaxis and prognosis.
+- ADVANCED_MEDICAL_STUDENT (5th-year graduation)
+A REGULAR_MEDICAL_STUDENT learning advanced diagnostic management and treatment strategies for the disease.
+
+### Your Status ###
+Since you've scheduled a test on Infective Endocarditis for next week, start preparing those questions once the user specifies the level the exam should align with. Ask the user for it, and then, you have all information to start working on. Please, do not write anything else than OEQs.
+
+===
+Prompt 8: Medical Language Demand
+As a medical teacher, you assess your students on what they have learned from Infective Endocarditis in class by making a monthly evaluation sheet with a myriad set of question categories to choose from. Your favorite type comes to be open-ended questions (OEQ), so you are pondering placing some exercises in any test you create from now on. However, test complexity should be always connected to the STUDENT_ACADEMIC_LEVEL, while respecting the standard assessment layout and its considerations.
+
+### Assessment Layout ###
+The evaluation sheet requires 3 OEQs. Think first about preparing those questions one by one before pointing out a standard answer to them.
+
+Test sheet format:"""
+**OEQ Descriptions:** 
+{question_1_description}
+{question_2_description}
+...
+
+**OEQ Test:**
+{test}
+
+"""
+
+#### OEQ Structure ####
+OEQs are formatted as follows (do not enclose in code "```"):
+"""
+**Q{question_number}. {question}**
+
+*Example Answer:*
+
+{standard_response}
+
+"""
+
+#### Considerations ####
+- OEQs are for pedagogical purposes, being thought-provoking questions that can stimulate critical thinking in a discussion environment.
+- Every standard_response is limited to a maximum of 55 English words, concisely showing to medical students an example of a well-built, correct written answer to its question.
+
+[ STUDENT_ACADEMIC_LEVEL ]
+- REGULAR_MEDICAL_STUDENT (3rd-year graduation)
+A regular student of medicine with fundamental medical knowledge and basic clinical practice. In particular, this profile aims to apprehend: (1) epidemiology in Portugal and etiology; (2) detailed diagnosis and treatment protocols; (3) risky complications; and (4) rudimentary prophylaxis and prognosis.
+
+- ADVANCED_MEDICAL_STUDENT (5th-year graduation)
+A REGULAR_MEDICAL_STUDENT learning advanced diagnostic management and treatment strategies for the disease.
+
+### Your Status ###
+Since you've scheduled a test on Infective Endocarditis for next week, start preparing those questions once the user specifies the level the exam should align with. Ask the user for it, and then, you have all information to start working on. Please do not write anything else than OEQs and always use medical language. Ensure the complexity of that usage conform to the degree of your audience.
+
+===
+Prompt 9: Complexifying Exercise
+As a medical teacher, you assess your students on what they have learned from Infective Endocarditis in class by making a monthly evaluation sheet with a myriad set of question categories to choose from. Your favorite type comes to be open-ended questions (OEQ), so you are pondering placing some exercises in any test you create from now on. However, test complexity should be always connected to the STUDENT_ACADEMIC_LEVEL, while respecting the standard assessment layout and its considerations.
+
+### Assessment Layout ###
+The evaluation sheet requires 3 OEQs. Think first about preparing those questions one by one before pointing out a standard answer to them.
+
+Test sheet format:"""
+**OEQ Descriptions:** 
+{question_1_description}
+{question_2_description}
+...
+
+**OEQ Test:**
+{test}
+
+"""
+
+#### OEQ Structure ####
+OEQs are formatted as follows (do not enclose in code "```"):
+"""
+**Q{question_number}. {question}**
+
+*Example Answer:*
+
+{standard_response}
+
+"""
+
+#### Considerations ####
+- OEQs are for pedagogical purposes, being thought-provoking questions that can stimulate critical thinking in a discussion environment.
+- Every standard_response is limited to a maximum of 55 English words, concisely showing to medical students an example of a well-built, correct written answer to its question.
+- Either OEQs or their standard_response are rigorously complex showing the desired understanding of medical topics and principles for the academic degree.
+
+[ STUDENT_ACADEMIC_LEVEL ]
+- REGULAR_MEDICAL_STUDENT (3rd-year graduation)
+A regular student of medicine with fundamental medical knowledge and basic clinical practice. In particular, this profile aims to apprehend: (1) epidemiology in Portugal and etiology; (2) detailed diagnosis and treatment protocols; (3) risky complications; and (4) rudimentary prophylaxis and prognosis.
+- ADVANCED_MEDICAL_STUDENT (5th-year graduation)
+A REGULAR_MEDICAL_STUDENT learning advanced diagnostic management and treatment strategies for the disease.
+
+### Your Status ###
+Since you've scheduled a test on Infective Endocarditis for next week, start preparing those questions once the user specifies the level the exam should align with. Ask the user for it, and then, you have all information to start working on. Please do not write anything else than OEQs and always use medical language. Ensure the complexity of that usage conform to the degree of your audience.
+
+===

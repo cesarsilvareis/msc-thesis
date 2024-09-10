@@ -1,0 +1,323 @@
+Prompt 1: Implicit Evaluation Setup
+Prepare a simple clinical case study evaluation scheme for tomorrow's practical lesson, such that I can effectively assess my medical students on what they have learned about Infective Endocarditis from previous lectures.
+
+Just respond with the statement sheet, where questions are present.
+
+===
+Prompt 2: Consistent Evaluation Setup
+Prepare a simple clinical case study evaluation scheme for tomorrow's practical lesson, such that I can effectively assess my medical students on what they have learned about Infective Endocarditis from previous lectures. Please, adopt the following output format when creating the statement sheet with questions associated with medical topics (do not enclose in code "```").
+
+Statement Sheet:"""
+**I. Case Scenario:**
+{clinical_case}
+
+**II. Instructions:**
+1. {test_instruction1}	
+2. ...
+
+**III. Questions:**
+
+{test_questions}
+
+**IV. Additional Notes:**
+- Duration time: {test_duration}
+- ...
+"""
+
+Topic-grouped questions: """
+*{topic_letter}. {topic}:*
+
+Q{question_number}. {question}
+...
+"""
+
+===
+Prompt 3: Parameterize Case Scenario
+Prepare a simple clinical case study evaluation scheme for tomorrow's practical lesson, such that I can effectively assess my medical students on what they have learned about Infective Endocarditis from previous lectures. Please, adopt the following output format (do not enclose in code "```") when attending to the prescribed considerations below.
+
+Statement Sheet:"""
+**I. Case Scenario:**
+{clinical_case}
+{physical_examination}
+
+**II. Instructions:**
+1. {test_instruction1}	
+2. ...
+
+**III. Questions:**
+
+{test_questions}
+
+**IV. Additional Notes:**
+- Duration time: {test_duration}
+- ...
+"""
+
+Topic-grouped questions: """
+*{topic_letter}. {topic}:*
+
+Q{question_number}. {question}
+...
+"""
+
+### Considerations ###
+- The clinical_case is a detailed, hypothetical patient condition for studying throughout the generated test. In addition to that, it is followed by a summarized physical examination table;
+- All test_questions should be unique and relevant to their clinical topic.
+
+===
+Prompt 4: Assembling Properties
+Prepare a simple clinical case study evaluation scheme for tomorrow's practical lesson, such that I can effectively assess my medical students on what they have learned about Infective Endocarditis from previous lectures. 
+
+### Assessment Layout ###
+The test you will create will consist of interpreting a clinical case study and answering 12 related questions among 5 medical topics.
+
+#### Statement Sheet Structure ####
+The evaluation format is present as follows (do not enclose in code using "```"):
+"""
+**I. Case Scenario:**
+{clinical_case}
+{physical_examination}
+
+**II. Instructions:**
+1. {test_instruction1}	
+2. ...
+
+**III. Questions:**
+
+{test_topics}
+
+**IV. Additional Notes:**
+- Duration time: {test_duration}
+- ...
+"""
+With test_topics being: """
+*{topic_letter}. {topic}:*
+
+Q{question_number}. {question}
+...
+"""
+
+#### Considerations ####
+- The clinical_case is a detailed, hypothetical patient condition for studying throughout the generated test. In addition to that, it is followed by a summarized physical examination table;
+- All test_questions should be unique and relevant to their clinical topic.
+
+===
+Prompt 5: Case-Focused Test
+Prepare a simple clinical case study evaluation scheme for tomorrow's class, such that I can effectively assess my medical students on what they have learned about Infective Endocarditis from previous lectures. 
+
+### Assessment Layout ###
+The test you will create will consist of interpreting a clinical case study and answering 12 related questions among 5 medical topics.
+
+#### Statement Sheet Structure ####
+The evaluation format is present as follows (do not enclose in code using "```"):
+"""
+**I. Case Scenario:**
+{clinical_case}
+{physical_examination}
+
+**II. Instructions:**
+1. {test_instruction1}	
+2. ...
+
+**III. Questions:**
+
+{test_topics}
+
+**IV. Additional Notes:**
+- Duration time: {test_duration}
+- ...
+"""
+With test_topics being: """
+*{topic_letter}. {topic}:*
+
+Q{question_number}. {question}
+...
+"""
+
+#### Considerations ####
+- The clinical_case is a detailed, hypothetical patient condition for studying throughout the generated test. In addition to that, it is followed by a summarized physical examination table;
+- All test_questions should be unique and relevant to their clinical topic while focussing on your proposed clinical case study. The first topic comes to be "Identification and Diagnosis".
+
+===
+Prompt 6: Medical Profile
+Prepare a simple clinical case study evaluation scheme for tomorrow's class, such that I can effectively assess my medical students on what they have learned about Infective Endocarditis from previous lectures. Please take a look at this assessment layout and the PROFILE of my medical students under consideration.
+
+### Assessment Layout ###
+The test you will create will consist of interpreting a clinical case study and answering 12 related questions among 5 medical topics.
+
+#### Statement Sheet Structure ####
+The evaluation format is present as follows (do not enclose in code using "```"):
+"""
+**I. Case Scenario:**
+{clinical_case}
+{physical_examination}
+
+**II. Instructions:**
+1. {test_instruction1}	
+2. ...
+
+**III. Questions:**
+
+{test_topics}
+
+**IV. Additional Notes:**
+- Duration time: {test_duration}
+- ...
+"""
+With test_topics being: """
+*{topic_letter}. {topic}:*
+
+Q{question_number}. {question}
+...
+"""
+
+#### Considerations ####
+- The clinical_case is a detailed, hypothetical patient condition for studying throughout the generated test. In addition to that, it is followed by a summarized physical examination table;
+- All test_questions should be unique and relevant to their clinical topic while focussing on your proposed clinical case study. The first topic comes to be "Identification and Diagnosis".
+
+[ PROFILE ]
+A regular student of medicine with fundamental medical knowledge and basic clinical practice. In particular, this profile seeks a comprehensive understanding of this cardiovascular pathology.
+- Topics: epidemiology in Portugal and etiology, detailed diagnosis and treatment protocols, risky complications, and rudimentary prophylaxis and prognosis.
+- Target Style: Correct medical terminology and a rigorous, engaged tone.
+
+===
+Prompt 7: Student-Level Alignment
+You are a medical teacher who has studied Infective Endocarditis for years, and now is teaching the disease theory to motivated medical students. Against the traditional evaluation scheme, you are thinking of creating a test based on a demonstrative clinical case study related to this subject. For that, you are provided with an assessment layout and the STUDENT_ACADEMIC_LEVEL under consideration.
+### Assessment Layout ###
+The test you will create will consist of interpreting a clinical case study and answering 12 related questions among 5 medical topics.
+
+#### Statement Sheet Structure ####
+The evaluation format is present as follows (do not enclose in code using "```"):
+"""
+**I. Case Scenario:**
+{clinical_case}
+{physical_examination}
+
+**II. Instructions:**
+1. {test_instruction1}	
+2. ...
+
+**III. Questions:**
+
+{test_topics}
+
+**IV. Additional Notes:**
+- Duration time: {test_duration}
+- ...
+"""
+
+With test_topics being: """
+*{topic_letter}. {topic}:*
+
+Q{question_number}. {question}
+...
+"""
+
+#### Considerations ####
+- The clinical_case is a detailed, hypothetical patient condition for studying throughout the generated test. In addition to that, it is followed by a summarized physical examination table;
+- All test_questions should be unique and relevant to their clinical topic while focussing on your proposed clinical case study. The first topic comes to be "Identification and Diagnosis".
+
+[ STUDENT_ACADEMIC_LEVEL ]
+- REGULAR_MEDICAL_STUDENT (3rd-year graduation)
+A regular student of medicine with fundamental medical knowledge and basic clinical practice. In particular, this profile aims to apprehend: (1) epidemiology in Portugal and etiology; (2) detailed diagnosis and treatment protocols; (3) risky complications; and (4) rudimentary prophylaxis and prognosis.
+- ADVANCED_MEDICAL_STUDENT (5th-year graduation)
+A REGULAR_MEDICAL_STUDENT learning advanced diagnostic management and treatment strategies for the disease.
+
+### Your Status ###
+As tomorrow marks the test day, it's time to craft the statement sheet meticulously tailored to the academic level the user will furnish! Kindly request the user's input and settle in for the response. When receiving that value, only output the statement sheet and nothing else to the user.
+
+===
+Prompt 8: Complexifying Case Scenario
+You are a medical teacher who has studied Infective Endocarditis for years, and now is teaching the disease theory to motivated medical students. Against the traditional evaluation scheme, you are thinking of creating a test based on a demonstrative clinical case study related to this subject. For that, you are provided with an assessment layout and the STUDENT_ACADEMIC_LEVEL under consideration.
+
+### Assessment Layout ###
+The test you will create will consist of interpreting a clinical case study and answering 12 related questions among 5 medical topics.
+
+#### Statement Sheet Structure ####
+The evaluation format is present as follows (do not enclose in code using "```"):
+"""
+**I. Case Scenario:**
+{clinical_case}
+{physical_examination}
+
+**II. Instructions:**
+1. {test_instruction1}	
+2. ...
+
+**III. Questions:**
+
+{test_topics}
+
+**IV. Additional Notes:**
+- Duration time: {test_duration}
+- ...
+"""
+
+With test_topics being: """
+*{topic_letter}. {topic}:*
+
+Q{question_number}. {question}
+...
+"""
+
+#### Considerations ####
+- The clinical_case is a detailed, hypothetical patient condition for studying throughout the generated test. In addition to that, it must appeal to the student's clinical understanding level and is followed by a summarized physical examination table;
+- All test_questions should be unique and relevant to their clinical topic while focussing on your proposed clinical case study. The first topic comes to be "Identification and Diagnosis".
+
+[ STUDENT_ACADEMIC_LEVEL ]
+- REGULAR_MEDICAL_STUDENT (3rd-year graduation)
+A regular student of medicine with fundamental medical knowledge and basic clinical practice. In particular, this profile aims to apprehend: (1) epidemiology in Portugal and etiology; (2) detailed diagnosis and treatment protocols; (3) risky complications; and (4) rudimentary prophylaxis and prognosis.
+- ADVANCED_MEDICAL_STUDENT (5th-year graduation)
+A REGULAR_MEDICAL_STUDENT learning advanced diagnostic management and treatment strategies for the disease.
+
+### Your Status ###
+As tomorrow marks the test day, it's time to craft the statement sheet meticulously tailored to the academic level the user will furnish! Kindly request the user's input and settle in for the response. When receiving that value, only output the statement sheet and nothing else to the user.
+
+===
+Prompt 9: Practical Applicability
+You are a medical teacher who has studied Infective Endocarditis for years, and now is teaching the disease theory to motivated medical students. Against the traditional evaluation scheme, you are thinking of creating a test based on a demonstrative clinical case study related to this subject. For that, you are provided with an assessment layout and the STUDENT_ACADEMIC_LEVEL under consideration.
+
+### Assessment Layout ###
+The test you will create will consist of interpreting a clinical case study and answering 12 related questions among 5 medical topics.
+
+#### Statement Sheet Structure ####
+The evaluation format is present as follows (do not enclose in code using "```"):
+"""
+**I. Case Scenario:**
+{clinical_case}
+{physical_examination}
+
+**II. Instructions:**
+1. {test_instruction1}	
+2. ...
+
+**III. Questions:**
+
+{test_topics}
+
+**IV. Additional Notes:**
+- Duration time: {test_duration}
+- ...
+"""
+
+With test_topics being: """
+*{topic_letter}. {topic}:*
+
+Q{question_number}. {question}
+...
+"""
+
+#### Considerations ####
+- The clinical_case is a detailed, hypothetical patient condition for studying throughout the generated test. In addition to that, it must appeal to the student's clinical understanding level and is followed by a summarized physical examination table;
+- All test_questions should be unique and relevant to their clinical topic while focussing on your proposed clinical case study for a practical exercise. While the first topic comes to be "Identification and Diagnosis", the last is "Practical Application".
+
+[ STUDENT_ACADEMIC_LEVEL ]
+- REGULAR_MEDICAL_STUDENT (3rd-year graduation)
+A regular student of medicine with fundamental medical knowledge and basic clinical practice. In particular, this profile aims to apprehend: (1) epidemiology in Portugal and etiology; (2) detailed diagnosis and treatment protocols; (3) risky complications; and (4) rudimentary prophylaxis and prognosis.
+- ADVANCED_MEDICAL_STUDENT (5th-year graduation)
+A REGULAR_MEDICAL_STUDENT learning advanced diagnostic management and treatment strategies for the disease.
+
+### Your Status ###
+As tomorrow marks the test day, it's time to craft the statement sheet meticulously tailored to the academic level the user will furnish! Kindly request the user's input and settle in for the response. When receiving that value, only output the statement sheet and nothing else to the user.
+
+===

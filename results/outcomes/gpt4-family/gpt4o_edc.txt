@@ -1,0 +1,240 @@
+## Regular + Etiology & Pathophysiology | Q1 in T3|5
+
+### MCQ
+**Which of the following is the most common causative organism of Infective Endocarditis in patients with native valves?**
+
+a) Staphylococcus aureus
+b) Streptococcus pneumoniae
+c) Escherichia coli
+d) Viridans streptococci
+
+**Correct Option:** d) Viridans streptococci
+
+**Explanation:** Viridans streptococci are the most common causative organisms of Infective Endocarditis in patients with native valves. While Staphylococcus aureus is a frequent cause, it is more commonly associated with endocarditis in prosthetic valves.
+
+### OUTCOME
+**Comments:**
+
+- Is an incorrect option selected as the solution? Yes
+
+- Is there more than a single correct option possible? No
+
+- Is the intended IE evaluative topic covered by the question? Yes
+
+- Is the question complexity in line with the academic degree? Yes
+
+**Improvement:**
+I would suggest the following: "The correct answer should be a) Staphylococcus aureus, as it is now recognized as the most common causative organism of Infective Endocarditis in patients with native valves. Update the question's correct option to reflect this."
+
+---
+
+## Advanced + Etiology & Pathophysiology | Q1 in T3|9
+
+### MCQ: True X True
+**Which of the following virulence factors is predominantly associated with Staphylococcus aureus in causing Infective Endocarditis?**
+
+a) Exfoliative toxins
+b) Protein A
+c) Coagulase
+d) Hemolysins
+
+**Correct Option:** b) Protein A
+
+**Explanation:** Protein A, encoded by the spa gene, facilitates immune evasion by binding to the Fc portion of IgG, inhibiting opsonization and phagocytosis, contributing significantly to the pathogenesis of Staphylococcus aureus endocarditis.
+
+### OUTCOME
+**Comments:**
+
+Is an incorrect option selected as the solution? No
+
+Is there more than a single correct option possible? Yes, c) Coagulase
+
+Is the intended IE evaluative topic covered by the question? Yes
+
+Is the question complexity in line with the academic degree? Yes
+
+Improvement: I would suggest the following: Although Protein A is a significant virulence factor for Staphylococcus aureus, Coagulase is also crucial in the pathogenesis of Infective Endocarditis. It helps the bacteria evade immune defenses by forming fibrin clots. To improve clarity and accuracy, the question could either specify a single best answer with a more nuanced explanation or be revised to acknowledge the importance of multiple factors.
+
+
+## Regular + Identification & Diagnosis (1) | Q2 in T3|6
+
+### MCQ
+**Which of the following clinical features is characteristic of subacute infective endocarditis?**
+
+a) Acute onset with high-grade fever
+b) Rapidly progressive heart failure
+c) Osler's nodes and splinter hemorrhages
+d) Splenomegaly and hepatomegaly
+
+**Correct Option:** c) Osler's nodes and splinter hemorrhages
+
+**Explanation:** Subacute infective endocarditis often presents with non-specific symptoms such as Osler's nodes (painful subcutaneous nodules) and splinter hemorrhages (small linear hemorrhages under the nails), distinguishing it from the acute form.
+
+### OUTCOME
+**Comments:**
+
+Is an incorrect option selected as the solution? No
+
+Is there more than a single correct option possible? No
+
+Is the intended IE evaluative topic covered by the question? Yes
+
+Is the question complexity in line with the academic degree? Yes
+
+Improvement:
+Nothing to point out!
+
+---
+
+
+## Regular + Identification & Diagnosis (2) | Q4 in T3|6
+
+### MCQ
+**What is the most sensitive and specific imaging modality for diagnosing infective endocarditis and detecting complications such as valvular vegetations?**
+
+a) Chest X-ray
+b) Transthoracic echocardiography
+c) Magnetic resonance imaging (MRI)
+d) Positron emission tomography (PET) scan
+
+**Correct Option:** b) Transthoracic echocardiography
+
+**Explanation:** Transthoracic echocardiography (TTE) is the initial imaging of choice for diagnosing infective endocarditis due to its high sensitivity in detecting valvular vegetations and other structural abnormalities of the heart.
+
+### OUTCOME
+**Comments:**
+
+- Is an incorrect option selected as the solution? No
+
+- Is there more than a single correct option possible? No
+
+- Is the intended IE evaluative topic covered by the question? Yes
+
+- Is the question complexity in line with the academic degree? No, the complexity is not fully appropriate because while transthoracic echocardiography (TTE) is an initial imaging modality, transesophageal echocardiography (TEE) is actually more sensitive and specific for detecting valvular vegetations and other complications of infective endocarditis. This nuance might be important for an advanced-level student, but it should be clarified at the regular level as well.
+
+**Improvement:**
+I would suggest the following: Modify the question to include both transthoracic and transesophageal echocardiography, highlighting the role of TTE as the initial test and TEE as the more sensitive and specific follow-up if TTE is inconclusive. This adjustment ensures the question is accurate and appropriately challenging for a 3rd-year medical student.
+
+---
+
+
+## Advanced + Identification & Diagnosis (1) | Q2 in T3|9
+
+### MCQ
+**A 48-year-old patient presents with a history of intravenous drug use and fever. Upon examination, a new-onset diastolic murmur is detected. Which valve is most commonly affected in intravenous drug users with Infective Endocarditis?**
+
+a) Aortic valve
+b) Mitral valve
+c) Pulmonary valve
+d) Tricuspid valve
+
+**Correct Option:** d) Tricuspid valve
+
+**Explanation:** Intravenous drug users commonly develop right-sided endocarditis affecting the tricuspid valve due to direct injection of contaminants into the venous system.
+
+### OUTCOME
+**Comments:**
+
+Is an incorrect option selected as the solution? No
+
+Is there more than a single correct option possible? No
+
+Is the intended IE evaluative topic covered by the question? Yes
+
+Is the question complexity in line with the academic degree? Yes
+
+Improvement: I would suggest the following: While the question is accurate and suitable for the academic level, adding more clinical context or integrating another aspect of diagnosis or treatment could further enhance the question’s complexity. For instance, including details on diagnostic findings or treatment options might deepen the students' understanding and better evaluate their comprehensive knowledge on the topic.
+
+---
+
+
+## Advanced + Identification & Diagnosis (2) | Q2 in T3|8
+
+### MCQ
+**Which diagnostic modality is considered the gold standard for confirming the diagnosis of Infective Endocarditis?**
+
+a) Chest X-ray
+b) Echocardiography
+c) Magnetic Resonance Imaging (MRI)
+d) Electrocardiography (ECG)
+
+**Correct Option:** b) Echocardiography
+
+**Explanation:** Echocardiography, especially transesophageal echocardiography (TEE), is the gold standard for diagnosing IE, allowing visualization of vegetations on heart valves and other structural abnormalities.
+
+### OUTCOME
+**Comments:**
+
+- Is an incorrect option selected as the solution? No
+
+- Is there more than a single correct option possible? No
+
+- Is the intended IE evaluative topic covered by the question? Yes
+
+- Is the question complexity in line with the academic degree? No, the question is more suitable for a regular medical student as it focuses on a fundamental diagnostic tool without the need for more advanced clinical application or interpretation.
+
+**Improvement:**
+I would suggest the following: For advanced medical students, the question should include a clinical scenario that requires interpretation of diagnostic results or decision-making in complex cases of Infective Endocarditis. Additionally, specifying "transesophageal echocardiography (TEE)" in the options can add more precision to the question.
+
+---
+
+
+## Regular + Complications & Treatment | Q5 in T3|6
+
+### MCQ
+**Which of the following is the most common complication of infective endocarditis that requires urgent surgical intervention?**
+
+a) Embolic stroke
+b) Valvular regurgitation
+c) Myocardial abscess
+d) Heart block
+
+**Correct Option:** a) Embolic stroke
+
+**Explanation:** Embolic strokes are a serious complication of infective endocarditis, often necessitating urgent surgical intervention to prevent further neurological damage and mortality.
+
+### OUTCOME
+**Comments:**
+
+Is an incorrect option selected as the solution? Yes
+
+Is there more than a single correct option possible? No
+
+Is the intended IE evaluative topic covered by the question? No, the explanation given does not align with the correct management of complications in infective endocarditis. The most common complication necessitating urgent surgical intervention is severe valvular regurgitation rather than embolic stroke.
+
+Is the question complexity in line with the academic degree? Yes
+
+Improvement:
+I would suggest the following: The correct option should be valvular regurgitation, as it is the most common complication of infective endocarditis that often requires urgent surgical intervention to prevent heart failure and other severe consequences. The question should be reviewed to align with standard clinical practice and guidelines.
+
+---
+
+
+## Advanced + Complications & Treatment | Q5 in T3|9
+
+### MCQ
+**In patients with Infective Endocarditis, which antibiotic combination is recommended for empirical treatment targeting both staphylococci and streptococci until culture results are available?**
+
+a) Vancomycin and gentamicin
+b) Penicillin and ceftriaxone
+c) Ceftriaxone and vancomycin
+d) Penicillin and gentamicin
+
+**Correct Option:** c) Ceftriaxone and vancomycin
+
+**Explanation:** Empirical antibiotic therapy for Infective Endocarditis should cover both staphylococci and streptococci, making the combination of ceftriaxone (or cefepime) and vancomycin the preferred choice until culture results guide further management.
+
+### OUTCOME
+**Comments:**
+
+Is an incorrect option selected as the solution? No
+
+Is there more than a single correct option possible? No
+
+Is the intended IE evaluative topic covered by the question? Yes
+
+Is the question complexity in line with the academic degree? Yes
+
+Improvement: I would suggest the following: The question is clear and appropriate for the advanced level. However, to enhance understanding, it might be beneficial to include a brief rationale for why other options are incorrect in the explanation. This would help students learn from their mistakes. For instance, explaining why vancomycin and gentamicin or penicillin and ceftriaxone are not preferred choices for empirical treatment of Infective Endocarditis could provide additional educational value.
+
+---

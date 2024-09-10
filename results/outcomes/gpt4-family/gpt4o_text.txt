@@ -1,0 +1,40 @@
+# NON-MEDICAL_STUDENT
+
+Great! Let's prepare for the lecture tailored for a NON-MEDICAL_STUDENT audience. I'll first break down the main topics to cover:
+
+1. **Risk Factors and Causes**
+2. **Essentials of Diagnosis and Complications**
+3. **Generic Treatment**
+
+Now, let's put this into a concise explanation.
+
+---
+
+**Infective Endocarditis**
+
+Infective endocarditis is an infection of the heart's inner lining, usually affecting the heart valves. Risk factors include heart valve disease, congenital heart defects, and intravenous drug use. Symptoms can be fever, chills, and heart murmur. Diagnosis involves blood tests and echocardiography. Complications can include heart failure, stroke, or other organ damage. Treatment typically involves prolonged antibiotic therapy and sometimes surgery. Early diagnosis and treatment are crucial for a good outcome.
+
+---
+
+# MEDICAL_STUDENT
+
+Great, thank you for letting me know. Here is a concise description of Infective Endocarditis tailored for a MEDICAL_STUDENT at a 3rd-year graduation level.
+
+---
+
+**Infective Endocarditis**
+
+Infective Endocarditis (IE) is a severe infection of the heart valves or endocardium, primarily caused by bacteria such as *Staphylococcus aureus* and *Streptococcus* species. In Portugal, the incidence is around 3-10 cases per 100,000 person-years. Diagnosis includes blood cultures and echocardiography. Treatment involves prolonged antibiotic therapy and, in some cases, surgical intervention. Complications can include heart failure, embolic events, and systemic infections. Prophylactic antibiotics may be recommended for high-risk patients undergoing certain procedures. Prognosis varies, with early detection and treatment being critical for better outcomes.
+
+---
+
+Feel free to ask if you need any more details or further explanation on specific aspects.
+
+# ADVANCED_MEDICAL_STUDENT
+
+Great, I'll be preparing for the lecture aimed at advanced medical students.
+
+### Infective Endocarditis for Advanced Medical Students
+
+**Infective endocarditis (IE)** is a serious infection of the endocardial surface of the heart, typically involving heart valves. It is caused by microbial pathogens, predominantly bacteria such as Streptococcus viridans, Staphylococcus aureus, and Enterococcus species. Diagnosis hinges on clinical criteria supported by echocardiography and blood cultures, adhering to Duke criteria. Treatment involves prolonged, targeted antibiotic therapy, often requiring synergistic combinations, and sometimes surgical intervention. Complications include heart failure, systemic embolism, and abscess formation. Prophylaxis is crucial in high-risk patients undergoing procedures that may induce bacteremia. Prognosis depends on timely intervention and pathogen virulence.
+

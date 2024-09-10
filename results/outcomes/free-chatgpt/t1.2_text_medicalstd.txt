@@ -1,0 +1,36 @@
+Prompt 1: Presumptive Request
+Infective endocarditis is a serious infection of the inner lining of the heart chambers (endocardium) or heart valves, often caused by bacteria entering the bloodstream and attaching to damaged areas of the heart. It can lead to valve damage, heart failure, or life-threatening complications like septic emboli. Symptoms include fever, fatigue, and heart murmurs. Diagnosis involves blood tests and imaging. Treatment typically requires prolonged antibiotic therapy and, in severe cases, surgery to repair or replace damaged valves. Prevention involves good dental hygiene and prophylactic antibiotics for those at risk during dental procedures.
+
+
+===
+Prompt 2: Medical Style Expectations
+Infective endocarditis (IE) is a serious infection of the inner lining of the heart chambers and heart valves, typically caused by bacteria or fungi entering the bloodstream. Commonly affecting those with pre-existing heart conditions or intravenous drug users, IE can lead to severe complications such as heart valve damage, stroke, and organ failure. Symptoms include fever, fatigue, and abnormal heart sounds. Diagnosis requires clinical suspicion, blood cultures, and echocardiography. Treatment involves prolonged courses of intravenous antibiotics and may necessitate surgical intervention to repair damaged valves. Early recognition and management are crucial to prevent life-threatening complications.
+
+
+===
+Prompt 3: Medical Student Profile
+Infective Endocarditis is a microbial infection of the endocardium, typically affecting heart valves. In Portugal, it's mainly caused by bacteria like Streptococcus and Staphylococcus. Diagnosis involves clinical evaluation, blood cultures, and echocardiography. Treatment requires prolonged antibiotic therapy, tailored to the specific pathogen and complications may include heart failure or embolism. Prophylaxis involves antibiotics before invasive dental procedures for at-risk individuals. Prognosis varies, influenced by factors like prompt treatment and underlying conditions. Understanding its epidemiology, etiology, diagnosis, treatment, complications, and prophylaxis is essential for medical students.
+
+
+===
+Prompt 4: Time to Think
+Infective Endocarditis (IE) is a severe infection of the heart's inner lining or valves, primarily caused by bacteria entering the bloodstream. In Portugal, Staphylococcus aureus and Streptococcus species are common culprits. Diagnosis involves clinical suspicion, blood cultures, echocardiography, and Duke criteria. Treatment typically requires prolonged intravenous antibiotics, tailored based on culture results. Complications include heart failure, embolic events, and valve damage. Prognosis depends on timely diagnosis and appropriate management, with mortality rates varying from 10% to 30%, but they can be higher in cases of complications.
+
+
+
+===
+Prompt 5: Educator Persona
+Infective Endocarditis, prevalent in Portugal, manifests as a microbial infection affecting the heart's inner lining or valves. Diagnosis involves clinical suspicion, echocardiography, and blood cultures, often revealing Staphylococcus or Streptococcus species. Treatment necessitates prolonged antibiotic therapy, possibly coupled with surgical intervention. Complications include embolic events, valve damage, and heart failure. Prophylaxis is vital for at-risk individuals undergoing dental or medical procedures. Prognosis, marked by a mortality rate ranging from 20% to 30%, underscores the urgency of timely detection and management.
+
+
+===
+Prompt 6: Student Level Binding
+Infective Endocarditis (IE) is a serious infection of the endocardium, often affecting heart valves. High-Level Medical Students, IE demands comprehensive understanding. Etiology includes bacterial colonization due to damaged endothelium. Diagnosis involves Duke criteria, incorporating clinical, microbiological, and imaging findings. Treatment combines antibiotics tailored to the causative organism and surgical intervention for complications like valve damage or abscesses. Vigilance for embolic events and systemic complications is crucial. Prophylaxis is recommended for high-risk individuals undergoing invasive procedures. The mortality rate of IE, despite treatment, can range from 10% to 30%, emphasizing the importance of prompt recognition and aggressive management.
+
+
+===
+Prompt 7: Medical Language Demand
+Infective Endocarditis (IE) is a microbial infection of the endocardial surface of the heart, typically involving heart valves. It presents with systemic symptoms like fever, and specific signs such as Osler's nodes and Janeway lesions. Diagnosis involves Duke criteria, echocardiography, and blood cultures. Management comprises antibiotics and, if needed, surgical intervention. Complications include embolic events and heart failure. Prophylaxis targets high-risk individuals undergoing invasive procedures. Prognosis relies on prompt diagnosis and treatment, yet mortality remains significant (approximately 20-30%), especially in cases of complications or delays in therapy.
+
+
+===
