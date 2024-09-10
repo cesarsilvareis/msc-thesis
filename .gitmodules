@@ -1,0 +1,6 @@
+[submodule "medical-llm-ui"]
+	path = medical-llm-ui
+	url = git@github.com:cesarsilvareis/medical-llm-ui.git
+[submodule "llm-manager"]
+	path = llm-manager
+	url = git@github.com:cesarsilvareis/llm-manager.git
